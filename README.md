@@ -7,11 +7,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 ## Describe your topic/interest in about 150-200 words
 
-Salman: For the given area burnt and number of fires, I want to analyze:
-    - How does the cause-of-fire vary from 1990 to 2020 for different provinces and territories, and if it is possible to determine/identify any trends e.g. I would like to know, over years, in which provinces and territories, more fires have been caused by man, as opposed to lighting etc.
-    - How does the size-of-fire vary from 1990 to 2020 for different provinces and territories, and identify any trends/patterns e.g. as time goes by, is there a particular fire size range (e.g. 10.1-100 ha) that us more prevalent; what is the most common fire-size seen in different provinces and territories?
-    - How do the fires vary each year (over 12 months) from 1990 to 2020 for different provinces and territories, and identify any trends/patterns/outliers e.g. are there particular months and years, when fires are more common/prevalent; is there a particular year when there were either far greater/lesser number-of-fires or far (area-wise) large/small fires prevalent?
-    - Identify any relationship b/w area-burnt, number of fires and property damaged experienced for different provinces and territories
+Our topic is Canadian wildfires. Canada is affected by hundreds of wildfires every year across the country and these fires have an impact on many different areas. Wildfires can impact wildlife, natural resourses, travel and air quality. Fires close to populated areas can also endanger people and their property. The is lots of research to be done in the field of wildfires to learn more about how fires start and spead, and about how best to prevent, control, and stop them. Since wildfires are geographic in nature, much of the data science work related to wildfires is done using GIS and there are many shapfile datasets available with wildfire data. Since GIS data is beyond the scope of this course, we have chosen a more conventional data set with various datapoints about Canadian wildfires.
 
 
 ## Describe your dataset in about 150-200 words
