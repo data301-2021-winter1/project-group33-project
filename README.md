@@ -22,7 +22,7 @@ Our data set shows how the area burnt and number of fires (for all Canadian prov
 
 - Stu McGorman: I like to ski
 - Salman Hafeez: I like to play racket sports
-- Person 3: one sentence about you!
+- Andrew Kang: I like fixing cars
 
 ## Images
 
