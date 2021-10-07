@@ -15,6 +15,8 @@ Salman: For the given area burnt and number of fires, I want to analyze:
     - How do the fires vary each year (over 12 months) from 1990 to 2020 for different provinces and territories, and identify any trends/patterns/outliers e.g. are there particular months and years, when fires are more common/prevalent; is there a particular year when there were either far greater/lesser number-of-fires or far (area-wise) large/small fires prevalent?
     - Identify any relationship b/w area-burnt, number of fires and property damaged experienced for different provinces and territories
 
+Andrew Kang: It is quite a common sense that any fire incidence should be treated as early as possible. However, in many cases due to varies reason a wildfire may not be discovered or treated at its earliest stage.  In my own prediction, if there are a massive number of fires happening in a relatively short period time, the fire department will be exhausted and overwhelmed, which will be unable to responds to some of the fire right away(after the fire was discovered). In the data set, this prediction should appear in the data set as when the number of fire in each month goes up, the average amount of area burned by each fire (number of fire/total area burned in the same month) would also goes up. If this prediction happen to be true, then it would means that the fire department need more crew, and the corresponding solution would be hire more crew in order to put down the fire quicker.
+
 
 ## Describe your dataset in about 150-200 words
 
