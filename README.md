@@ -6,6 +6,8 @@
 Details for Milestone are available on Canvas (left sidebar, Course Project) or [here](https://firas.moosvi.com/courses/2021_WT1/data301/project/milestone02.html).
 
 ## Describe your topic/interest in about 150-200 words
+Stu:
+I'm interested in seeing if there is any trend in the number of fires per year in a given province. I expect that the trend may show a wavy pattern between more and fewer fires. I think that it would make sense that after a year with more fires, most of the available fuel has been burned and there will be fewer fires the next year. Conversely after a year or 2 with fewer fires natural fuel will build up and provide conditions for more fires. I also still want to possibly add in some additional data. Maybe compare the number of fires per year with the rate of global warming? or checking if higher average temperature for a year correlates with more fires. I also want to look at how the cause of fire relates to area burned or property losses (do human stated fires cause more or less damage?).
 
 Salman: For the given area burnt and number of fires, I want to analyze:
     - How does the cause-of-fire vary from 1990 to 2020 for different provinces and territories, and if it is possible to determine/identify any trends e.g. I would like to know, over years, in which provinces and territories, more fires have been caused by man, as opposed to lighting etc.
