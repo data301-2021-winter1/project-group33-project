@@ -7,12 +7,15 @@ def raw(file):
 
 def intial_process(df1,df2):
     # Merges two datasets and THEN drops all common un-needed columns
-    df=pd.merge(df1,df2,how='inner').drop(["AnnÈe","ISO","Juridiction","Data Qualifier","Qualificatifs de donnÈes","Nombre","Superficie (en hectare)"],axis='columns')
+    df=pd.concat([df1,df2['Number']],axis='columns').drop(["AnnÈe","ISO","Juridiction","Data Qualifier","Qualificatifs de donnÈes","Superficie (en hectare)"],axis='columns')
+    
+    # check = pd.concat([Area_by_cause,Number_by_cause['Number']],axis='columns')
     return df
 
 def drop_origine(df):
     # Drops rows where the Cause column has value Unspecified and drops the column titled 'Origine'
-    df=df[df["Cause"]!="Unspecified"].drop("Origine",axis='columns')
+    df=df[df["Cause"]!="Unspecified" ].drop("Origine",axis='columns')
+    df=df[df["Cause"]!="Reburn"]
     return df
 
 def drop_french_firesize(df):

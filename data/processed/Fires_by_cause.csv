@@ -18,8 +18,6 @@ Year,Jurisdiction,Cause,Area (hectares),Number
 1998,Alberta,Human activity,74976.88,448
 1998,Alberta,Lightning,651766.17,1192
 1999,Alberta,Human activity,3722.86,443
-1999,Alberta,Human activity,3722.86,1
-1999,Alberta,Human activity,0.0,443
 1999,Alberta,Human activity,0.0,1
 1999,Alberta,Lightning,116724.7,890
 2000,Alberta,Human activity,4759.14,337
@@ -27,57 +25,33 @@ Year,Jurisdiction,Cause,Area (hectares),Number
 2001,Alberta,Human activity,137095.04,465
 2001,Alberta,Lightning,16932.3,490
 2002,Alberta,Human activity,247826.19,565
-2002,Alberta,Human activity,247826.19,1
-2002,Alberta,Human activity,7.0,565
 2002,Alberta,Human activity,7.0,1
 2002,Alberta,Lightning,248579.43,868
 2003,Alberta,Human activity,3575.9,643
 2003,Alberta,Lightning,51372.71,526
 2004,Alberta,Human activity,4207.78,861
-2004,Alberta,Human activity,4207.78,1
-2004,Alberta,Human activity,0.2,861
 2004,Alberta,Human activity,0.2,1
 2004,Alberta,Lightning,231905.13,732
-2004,Alberta,Reburn,41.01,6
 2005,Alberta,Human activity,12036.34,901
-2005,Alberta,Human activity,12036.34,2
-2005,Alberta,Human activity,3.91,901
 2005,Alberta,Human activity,3.91,2
 2005,Alberta,Lightning,48640.28,433
-2005,Alberta,Reburn,0.12,3
 2006,Alberta,Human activity,21166.12,1197
-2006,Alberta,Human activity,21166.12,7
-2006,Alberta,Human activity,1.79,1197
 2006,Alberta,Human activity,1.79,7
 2006,Alberta,Lightning,97576.92,747
-2006,Alberta,Reburn,33.26,22
 2007,Alberta,Human activity,857.97,798
 2007,Alberta,Lightning,102757.68,513
-2007,Alberta,Reburn,1.2,8
 2008,Alberta,Human activity,2163.68,890
-2008,Alberta,Human activity,2163.68,3
-2008,Alberta,Human activity,42.11,890
 2008,Alberta,Human activity,42.11,3
 2008,Alberta,Lightning,18522.77,779
-2008,Alberta,Reburn,8.42,9
 2009,Alberta,Human activity,2885.58,1048
-2009,Alberta,Human activity,2885.58,6
-2009,Alberta,Human activity,735.87,1048
 2009,Alberta,Human activity,735.87,6
 2009,Alberta,Lightning,63251.5,566
-2009,Alberta,Reburn,5.97,9
 2010,Alberta,Human activity,2268.74,1101
-2010,Alberta,Human activity,2268.74,1
-2010,Alberta,Human activity,1.5,1101
 2010,Alberta,Human activity,1.5,1
 2010,Alberta,Lightning,78830.84,741
-2010,Alberta,Reburn,138.82,12
 2011,Alberta,Human activity,128203.33,922
-2011,Alberta,Human activity,128203.33,2
-2011,Alberta,Human activity,0.6,922
 2011,Alberta,Human activity,0.6,2
 2011,Alberta,Lightning,74245.95,215
-2011,Alberta,Reburn,0.16,5
 2012,Alberta,Human activity,7553.0,1127
 2012,Alberta,Lightning,377851.12,436
 2013,Alberta,Human activity,2101.0,890
@@ -379,18 +353,12 @@ Year,Jurisdiction,Cause,Area (hectares),Number
 1992,Northwest Territories,Human activity,269.43,73
 1992,Northwest Territories,Lightning,34072.78,199
 1993,Northwest Territories,Human activity,84.47,67
-1993,Northwest Territories,Human activity,84.47,2
-1993,Northwest Territories,Human activity,7400.0,67
 1993,Northwest Territories,Human activity,7400.0,2
 1993,Northwest Territories,Lightning,856783.73,398
 1994,Northwest Territories,Human activity,10126.82,92
-1994,Northwest Territories,Human activity,10126.82,28
-1994,Northwest Territories,Human activity,17882.0,92
 1994,Northwest Territories,Human activity,17882.0,28
 1994,Northwest Territories,Lightning,2999302.32,525
 1995,Northwest Territories,Human activity,111783.76,67
-1995,Northwest Territories,Human activity,111783.76,8
-1995,Northwest Territories,Human activity,15996.9,67
 1995,Northwest Territories,Human activity,15996.9,8
 1995,Northwest Territories,Lightning,2715574.67,139
 1996,Northwest Territories,Human activity,84.66,20
@@ -400,13 +368,9 @@ Year,Jurisdiction,Cause,Area (hectares),Number
 1998,Northwest Territories,Human activity,79.72,24
 1998,Northwest Territories,Lightning,1458875.43,373
 1999,Northwest Territories,Human activity,31.65,32
-1999,Northwest Territories,Human activity,31.65,2
-1999,Northwest Territories,Human activity,11158.0,32
 1999,Northwest Territories,Human activity,11158.0,2
 1999,Northwest Territories,Lightning,549844.38,135
 2000,Northwest Territories,Human activity,20.83,19
-2000,Northwest Territories,Human activity,20.83,1
-2000,Northwest Territories,Human activity,17.8,19
 2000,Northwest Territories,Human activity,17.8,1
 2000,Northwest Territories,Lightning,177796.14,252
 2001,Northwest Territories,Human activity,5.23,21
@@ -482,8 +446,6 @@ Year,Jurisdiction,Cause,Area (hectares),Number
 2006,Ontario,Human activity,1762.999998,497
 2006,Ontario,Lightning,145286.1,1755
 2007,Ontario,Human activity,33191.3,564
-2007,Ontario,Human activity,33191.3,1
-2007,Ontario,Human activity,25.0,564
 2007,Ontario,Human activity,25.0,1
 2007,Ontario,Lightning,6747.100001,533
 2008,Ontario,Human activity,106.0000003,202
@@ -495,30 +457,20 @@ Year,Jurisdiction,Cause,Area (hectares),Number
 2011,Ontario,Human activity,1850.500001,457
 2011,Ontario,Lightning,632086.6,847
 2012,Ontario,Human activity,43438.7,611
-2012,Ontario,Human activity,43438.7,1
-2012,Ontario,Human activity,1207.0,611
 2012,Ontario,Human activity,1207.0,1
 2012,Ontario,Lightning,107873.5,978
 2013,Ontario,Human activity,823.7000012,330
 2013,Ontario,Lightning,50216.4,239
 2014,Ontario,Human activity,241.9000009,180
-2014,Ontario,Human activity,241.9000009,5
-2014,Ontario,Human activity,759.0,180
 2014,Ontario,Human activity,759.0,5
 2014,Ontario,Lightning,5143.7,117
 2015,Ontario,Human activity,1243.400002,343
-2015,Ontario,Human activity,1243.400002,2
-2015,Ontario,Human activity,3411.0,343
 2015,Ontario,Human activity,3411.0,2
 2015,Ontario,Lightning,38063.8,319
 2016,Ontario,Human activity,6114.800001,451
-2016,Ontario,Human activity,6114.800001,2
-2016,Ontario,Human activity,3096.0,451
 2016,Ontario,Human activity,3096.0,2
 2016,Ontario,Lightning,76921.7,173
 2017,Ontario,Human activity,87.40000091,209
-2017,Ontario,Human activity,87.40000091,3
-2017,Ontario,Human activity,445.0,209
 2017,Ontario,Human activity,445.0,3
 2017,Ontario,Lightning,112233.0,556
 2018,Ontario,Human activity,15994.1,373
@@ -558,63 +510,39 @@ Year,Jurisdiction,Cause,Area (hectares),Number
 2007,Parks Canada,Human activity,2241.97,66
 2007,Parks Canada,Lightning,222118.51,24
 2008,Parks Canada,Human activity,8576.212,49
-2008,Parks Canada,Human activity,8576.212,20
-2008,Parks Canada,Human activity,9255.0,49
 2008,Parks Canada,Human activity,9255.0,20
 2008,Parks Canada,Lightning,4487.8,53
 2009,Parks Canada,Human activity,19453.456,45
-2009,Parks Canada,Human activity,19453.456,19
-2009,Parks Canada,Human activity,6264.22,45
 2009,Parks Canada,Human activity,6264.22,19
 2009,Parks Canada,Lightning,17133.82,79
 2010,Parks Canada,Human activity,30.5,59
-2010,Parks Canada,Human activity,30.5,13
-2010,Parks Canada,Human activity,2110.5,59
 2010,Parks Canada,Human activity,2110.5,13
 2010,Parks Canada,Lightning,5837.2414,50
 2011,Parks Canada,Human activity,14849.933,46
-2011,Parks Canada,Human activity,14849.933,23
-2011,Parks Canada,Human activity,4816.2,46
 2011,Parks Canada,Human activity,4816.2,23
 2011,Parks Canada,Lightning,23511.41,22
 2012,Parks Canada,Human activity,262.6071,27
-2012,Parks Canada,Human activity,262.6071,15
-2012,Parks Canada,Human activity,1420.3,27
 2012,Parks Canada,Human activity,1420.3,15
 2012,Parks Canada,Lightning,272200.609,65
 2013,Parks Canada,Human activity,5015.8612,29
-2013,Parks Canada,Human activity,5015.8612,20
-2013,Parks Canada,Human activity,1121.16,29
 2013,Parks Canada,Human activity,1121.16,20
 2013,Parks Canada,Lightning,48981.54,69
 2014,Parks Canada,Human activity,0.3431,10
-2014,Parks Canada,Human activity,0.3431,12
-2014,Parks Canada,Human activity,3139.36,10
 2014,Parks Canada,Human activity,3139.36,12
 2014,Parks Canada,Lightning,267177.55,53
 2015,Parks Canada,Human activity,8.3102,32
-2015,Parks Canada,Human activity,8.3102,28
-2015,Parks Canada,Human activity,6694.1,32
 2015,Parks Canada,Human activity,6694.1,28
 2015,Parks Canada,Lightning,457818.6,80
 2016,Parks Canada,Human activity,1.5453,27
-2016,Parks Canada,Human activity,1.5453,24
-2016,Parks Canada,Human activity,3383.1538,27
 2016,Parks Canada,Human activity,3383.1538,24
 2016,Parks Canada,Lightning,7794.2901,33
 2017,Parks Canada,Human activity,3.86461,74
-2017,Parks Canada,Human activity,3.86461,13
-2017,Parks Canada,Human activity,1744.556,74
 2017,Parks Canada,Human activity,1744.556,13
 2017,Parks Canada,Lightning,92143.0224,85
 2018,Parks Canada,Human activity,193.5642,79
-2018,Parks Canada,Human activity,193.5642,19
-2018,Parks Canada,Human activity,37075.797,79
 2018,Parks Canada,Human activity,37075.797,19
 2018,Parks Canada,Lightning,25696.132,57
 2019,Parks Canada,Human activity,4.34321,29
-2019,Parks Canada,Human activity,4.34321,12
-2019,Parks Canada,Human activity,308.15,29
 2019,Parks Canada,Human activity,308.15,12
 2019,Parks Canada,Lightning,36405.98,39
 2018,Prince Edward Island,Human activity,7.39015146,8
