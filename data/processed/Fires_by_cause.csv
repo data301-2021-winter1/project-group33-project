@@ -1,0 +1,801 @@
+Year,Jurisdiction,Cause,Area (hectares),Number
+1990,Alberta,Human activity,2385.4,372
+1990,Alberta,Lightning,30890.7,914
+1991,Alberta,Human activity,2260.5,431
+1991,Alberta,Lightning,3769.3,466
+1992,Alberta,Human activity,2002.2,398
+1992,Alberta,Lightning,1075.2,626
+1993,Alberta,Human activity,1138.61,303
+1993,Alberta,Lightning,24892.7,517
+1994,Alberta,Human activity,2484.8,361
+1994,Alberta,Lightning,27057.68,499
+1995,Alberta,Human activity,7886.62,413
+1995,Alberta,Lightning,327019.99,358
+1996,Alberta,Human activity,655.24,143
+1996,Alberta,Lightning,1281.76,217
+1997,Alberta,Human activity,4383.07,204
+1997,Alberta,Lightning,322.27,242
+1998,Alberta,Human activity,74976.88,448
+1998,Alberta,Lightning,651766.17,1192
+1999,Alberta,Human activity,3722.86,443
+1999,Alberta,Human activity,3722.86,1
+1999,Alberta,Human activity,0.0,443
+1999,Alberta,Human activity,0.0,1
+1999,Alberta,Lightning,116724.7,890
+2000,Alberta,Human activity,4759.14,337
+2000,Alberta,Lightning,9958.0,429
+2001,Alberta,Human activity,137095.04,465
+2001,Alberta,Lightning,16932.3,490
+2002,Alberta,Human activity,247826.19,565
+2002,Alberta,Human activity,247826.19,1
+2002,Alberta,Human activity,7.0,565
+2002,Alberta,Human activity,7.0,1
+2002,Alberta,Lightning,248579.43,868
+2003,Alberta,Human activity,3575.9,643
+2003,Alberta,Lightning,51372.71,526
+2004,Alberta,Human activity,4207.78,861
+2004,Alberta,Human activity,4207.78,1
+2004,Alberta,Human activity,0.2,861
+2004,Alberta,Human activity,0.2,1
+2004,Alberta,Lightning,231905.13,732
+2004,Alberta,Reburn,41.01,6
+2005,Alberta,Human activity,12036.34,901
+2005,Alberta,Human activity,12036.34,2
+2005,Alberta,Human activity,3.91,901
+2005,Alberta,Human activity,3.91,2
+2005,Alberta,Lightning,48640.28,433
+2005,Alberta,Reburn,0.12,3
+2006,Alberta,Human activity,21166.12,1197
+2006,Alberta,Human activity,21166.12,7
+2006,Alberta,Human activity,1.79,1197
+2006,Alberta,Human activity,1.79,7
+2006,Alberta,Lightning,97576.92,747
+2006,Alberta,Reburn,33.26,22
+2007,Alberta,Human activity,857.97,798
+2007,Alberta,Lightning,102757.68,513
+2007,Alberta,Reburn,1.2,8
+2008,Alberta,Human activity,2163.68,890
+2008,Alberta,Human activity,2163.68,3
+2008,Alberta,Human activity,42.11,890
+2008,Alberta,Human activity,42.11,3
+2008,Alberta,Lightning,18522.77,779
+2008,Alberta,Reburn,8.42,9
+2009,Alberta,Human activity,2885.58,1048
+2009,Alberta,Human activity,2885.58,6
+2009,Alberta,Human activity,735.87,1048
+2009,Alberta,Human activity,735.87,6
+2009,Alberta,Lightning,63251.5,566
+2009,Alberta,Reburn,5.97,9
+2010,Alberta,Human activity,2268.74,1101
+2010,Alberta,Human activity,2268.74,1
+2010,Alberta,Human activity,1.5,1101
+2010,Alberta,Human activity,1.5,1
+2010,Alberta,Lightning,78830.84,741
+2010,Alberta,Reburn,138.82,12
+2011,Alberta,Human activity,128203.33,922
+2011,Alberta,Human activity,128203.33,2
+2011,Alberta,Human activity,0.6,922
+2011,Alberta,Human activity,0.6,2
+2011,Alberta,Lightning,74245.95,215
+2011,Alberta,Reburn,0.16,5
+2012,Alberta,Human activity,7553.0,1127
+2012,Alberta,Lightning,377851.12,436
+2013,Alberta,Human activity,2101.0,890
+2013,Alberta,Lightning,17372.64,287
+2014,Alberta,Human activity,1203.51,859
+2014,Alberta,Lightning,22470.08,563
+2015,Alberta,Human activity,38610.55,1009
+2015,Alberta,Lightning,427638.87,772
+2016,Alberta,Human activity,1134.0,861
+2016,Alberta,Lightning,20015.05,514
+2017,Alberta,Human activity,6832.69,787
+2017,Alberta,Lightning,42316.3,416
+2018,Alberta,Human activity,1887.8,731
+2018,Alberta,Lightning,57901.81,512
+2019,Alberta,Human activity,3025.94,705
+2019,Alberta,Lightning,127692.59,288
+1990,British Columbia,Human activity,40278.3,1240
+1990,British Columbia,Lightning,35503.5,2015
+1991,British Columbia,Human activity,10923.6,1253
+1991,British Columbia,Lightning,13785.2,760
+1992,British Columbia,Human activity,15559.9,1461
+1992,British Columbia,Lightning,14892.9,2344
+1993,British Columbia,Human activity,3400.2,886
+1993,British Columbia,Lightning,1783.2,611
+1994,British Columbia,Human activity,12017.1,1169
+1994,British Columbia,Lightning,17738.2,2888
+1995,British Columbia,Human activity,19714.4,1130
+1995,British Columbia,Lightning,28365.6,344
+1996,British Columbia,Human activity,6579.8,633
+1996,British Columbia,Lightning,14089.3,727
+1997,British Columbia,Human activity,2635.4,489
+1997,British Columbia,Lightning,332.4,687
+1998,British Columbia,Human activity,6552.156,910
+1998,British Columbia,Lightning,70015.188,1752
+1999,British Columbia,Human activity,4834.0,597
+1999,British Columbia,Lightning,6721.41,601
+2000,British Columbia,Human activity,11361.754,684
+2000,British Columbia,Lightning,6190.258,842
+2001,British Columbia,Human activity,4843.569,812
+2001,British Columbia,Lightning,4983.38,479
+2002,British Columbia,Human activity,4353.763,900
+2002,British Columbia,Lightning,4216.797,872
+2003,British Columbia,Human activity,81744.683,942
+2003,British Columbia,Lightning,183168.879,1515
+2004,British Columbia,Human activity,2175.187,693
+2004,British Columbia,Lightning,218112.29,1712
+2005,British Columbia,Human activity,7844.705,607
+2005,British Columbia,Lightning,27097.361,387
+2006,British Columbia,Human activity,9454.723,1026
+2006,British Columbia,Lightning,129696.069,1534
+2007,British Columbia,Human activity,12242.438,688
+2007,British Columbia,Lightning,17243.066,919
+2008,British Columbia,Human activity,8649.034,842
+2008,British Columbia,Lightning,4661.254,1182
+2009,British Columbia,Human activity,26716.472,873
+2009,British Columbia,Lightning,220626.996,2176
+2010,British Columbia,Human activity,10435.463,696
+2010,British Columbia,Lightning,326731.735,993
+2011,British Columbia,Human activity,1183.169,437
+2011,British Columbia,Lightning,11379.716,209
+2012,British Columbia,Human activity,5606.892,699
+2012,British Columbia,Lightning,96509.765,941
+2013,British Columbia,Human activity,4954.336,571
+2013,British Columbia,Lightning,13348.763,1296
+2014,British Columbia,Human activity,8085.204,653
+2014,British Columbia,Lightning,360840.982,816
+2015,British Columbia,Human activity,57126.995,623
+2015,British Columbia,Lightning,223737.266,1240
+2016,British Columbia,Human activity,93320.648,583
+2016,British Columbia,Lightning,7056.983,485
+2017,British Columbia,Human activity,225057.873,562
+2017,British Columbia,Lightning,991081.007,784
+2018,British Columbia,Human activity,121607.451,534
+2018,British Columbia,Lightning,1229431.195,1535
+2019,British Columbia,Human activity,4665.837,359
+2019,British Columbia,Lightning,15584.59,374
+2020,British Columbia,Human activity,86.538,16
+1990,Manitoba,Human activity,5719.0,283
+1990,Manitoba,Lightning,10426.0,279
+1991,Manitoba,Human activity,20668.1,205
+1991,Manitoba,Lightning,130317.6,467
+1992,Manitoba,Human activity,90957.6,103
+1992,Manitoba,Lightning,342816.2,195
+1993,Manitoba,Human activity,5117.4,102
+1993,Manitoba,Lightning,62157.0,137
+1994,Manitoba,Human activity,471729.6,134
+1994,Manitoba,Lightning,957056.1,421
+1995,Manitoba,Human activity,7366.5,262
+1995,Manitoba,Lightning,881870.6,399
+1996,Manitoba,Human activity,2882.7,187
+1996,Manitoba,Lightning,122443.7,237
+1997,Manitoba,Human activity,3648.7,189
+1997,Manitoba,Lightning,38150.4,184
+1998,Manitoba,Human activity,4837.8,296
+1998,Manitoba,Lightning,445734.3,220
+1999,Manitoba,Human activity,53387.8,329
+1999,Manitoba,Lightning,57065.7,284
+2004,Manitoba,Human activity,362.0,14
+2004,Manitoba,Lightning,18074.1,32
+2005,Manitoba,Human activity,3585.2,106
+2005,Manitoba,Lightning,69095.4,142
+2006,Manitoba,Human activity,6613.3,260
+2006,Manitoba,Lightning,159437.0,422
+2007,Manitoba,Human activity,4912.9,220
+2007,Manitoba,Lightning,331367.9,162
+2008,Manitoba,Human activity,73198.2,254
+2008,Manitoba,Lightning,77474.4,143
+2009,Manitoba,Human activity,2230.2,117
+2009,Manitoba,Lightning,641.8,67
+2010,Manitoba,Human activity,22395.4,245
+2010,Manitoba,Lightning,165098.7,338
+2011,Manitoba,Human activity,26229.1,156
+2011,Manitoba,Lightning,100615.2,159
+2012,Manitoba,Human activity,21026.9,204
+2012,Manitoba,Lightning,195861.4,293
+2013,Manitoba,Human activity,895.6,192
+2013,Manitoba,Lightning,1114519.2,302
+2014,Manitoba,Human activity,1171.5,115
+2014,Manitoba,Lightning,37936.4,130
+2015,Manitoba,Human activity,6778.6,164
+2015,Manitoba,Lightning,61353.0,295
+2016,Manitoba,Human activity,6700.6,106
+2016,Manitoba,Lightning,31706.9,96
+2017,Manitoba,Human activity,1365.9,136
+2017,Manitoba,Lightning,221813.6,421
+2018,Manitoba,Human activity,78900.9,232
+2018,Manitoba,Lightning,155320.8,244
+2019,Manitoba,Human activity,7936.2,145
+2019,Manitoba,Lightning,63317.9,132
+1990,New Brunswick,Human activity,6188.1,318
+1990,New Brunswick,Lightning,6.9,29
+1991,New Brunswick,Human activity,3417.3,498
+1991,New Brunswick,Lightning,56.7,86
+1992,New Brunswick,Human activity,5330.9,500
+1992,New Brunswick,Lightning,32.2,22
+1993,New Brunswick,Human activity,417.0,349
+1993,New Brunswick,Lightning,323.2,31
+1994,New Brunswick,Human activity,752.0,433
+1994,New Brunswick,Lightning,2.9,15
+1995,New Brunswick,Human activity,408.5,395
+1995,New Brunswick,Lightning,45.9,81
+1996,New Brunswick,Human activity,1027.5,239
+1996,New Brunswick,Lightning,908.1,84
+1997,New Brunswick,Human activity,219.8,290
+1997,New Brunswick,Lightning,17.1,33
+1998,New Brunswick,Human activity,274.9,224
+1998,New Brunswick,Lightning,4.1,18
+1999,New Brunswick,Human activity,831.0,378
+1999,New Brunswick,Lightning,545.7,161
+2000,New Brunswick,Human activity,370.0,256
+2000,New Brunswick,Lightning,70.8,20
+2001,New Brunswick,Human activity,473.3,338
+2001,New Brunswick,Lightning,25.3,56
+2002,New Brunswick,Human activity,255.5,211
+2002,New Brunswick,Lightning,33.0,55
+2003,New Brunswick,Human activity,213.7,180
+2003,New Brunswick,Lightning,4.3,22
+2004,New Brunswick,Human activity,385.8,209
+2004,New Brunswick,Lightning,4.6,8
+2005,New Brunswick,Human activity,455.4,255
+2005,New Brunswick,Lightning,9.9,25
+2006,New Brunswick,Human activity,574.4,249
+2006,New Brunswick,Lightning,8.7,27
+2007,New Brunswick,Human activity,384.4,254
+2007,New Brunswick,Lightning,25.2,30
+2008,New Brunswick,Human activity,125.7,140
+2008,New Brunswick,Lightning,6.8,13
+2009,New Brunswick,Human activity,233.7,182
+2009,New Brunswick,Lightning,0.2,2
+2010,New Brunswick,Human activity,130.5,143
+2010,New Brunswick,Lightning,10.8,9
+2011,New Brunswick,Human activity,33.4,55
+2011,New Brunswick,Lightning,2.2,4
+2012,New Brunswick,Human activity,287.9,277
+2012,New Brunswick,Lightning,0.8,6
+2013,New Brunswick,Human activity,845.5,315
+2013,New Brunswick,Lightning,0.2,2
+2014,New Brunswick,Human activity,101.3,154
+2014,New Brunswick,Lightning,0.5,4
+2015,New Brunswick,Human activity,197.7,185
+2015,New Brunswick,Lightning,45.6,8
+2016,New Brunswick,Human activity,199.2,238
+2016,New Brunswick,Lightning,21.7,13
+2017,New Brunswick,Human activity,530.3,182
+2017,New Brunswick,Lightning,19.7,29
+2018,New Brunswick,Human activity,250.1,229
+2018,New Brunswick,Lightning,16.5,19
+2019,New Brunswick,Human activity,183.6,152
+2019,New Brunswick,Lightning,14.1,14
+1990,Newfoundland and Labrador,Human activity,3825.3,154
+1990,Newfoundland and Labrador,Lightning,20777.0,11
+1991,Newfoundland and Labrador,Human activity,6863.4,92
+1991,Newfoundland and Labrador,Lightning,49526.6,23
+1992,Newfoundland and Labrador,Human activity,1435.5,99
+1992,Newfoundland and Labrador,Lightning,374.2,7
+1993,Newfoundland and Labrador,Human activity,55.4,53
+1993,Newfoundland and Labrador,Lightning,28425.0,12
+1994,Newfoundland and Labrador,Human activity,1309.7,122
+1994,Newfoundland and Labrador,Lightning,108964.5,7
+1995,Newfoundland and Labrador,Human activity,301.1,84
+1995,Newfoundland and Labrador,Lightning,400.0,2
+1996,Newfoundland and Labrador,Human activity,3161.1,82
+1996,Newfoundland and Labrador,Lightning,78149.3,29
+1997,Newfoundland and Labrador,Human activity,8261.5,68
+1997,Newfoundland and Labrador,Lightning,283.2,10
+1998,Newfoundland and Labrador,Human activity,1085.5,159
+1998,Newfoundland and Labrador,Lightning,39075.7,21
+1999,Newfoundland and Labrador,Human activity,11262.4,165
+1999,Newfoundland and Labrador,Lightning,27777.8,23
+2000,Newfoundland and Labrador,Human activity,232.0,124
+2000,Newfoundland and Labrador,Lightning,103304.167,25
+2001,Newfoundland and Labrador,Human activity,324.6,165
+2001,Newfoundland and Labrador,Lightning,640.988,16
+2002,Newfoundland and Labrador,Human activity,260.1,85
+2002,Newfoundland and Labrador,Lightning,14524.546,14
+2003,Newfoundland and Labrador,Human activity,683.0,125
+2003,Newfoundland and Labrador,Lightning,27028.13,15
+2004,Newfoundland and Labrador,Human activity,1224.5,122
+2004,Newfoundland and Labrador,Lightning,931.586,2
+2005,Newfoundland and Labrador,Human activity,187.2,115
+2005,Newfoundland and Labrador,Lightning,18061.319,6
+2006,Newfoundland and Labrador,Human activity,153.7,61
+2006,Newfoundland and Labrador,Lightning,3311.868,5
+2007,Newfoundland and Labrador,Human activity,324.146,59
+2007,Newfoundland and Labrador,Lightning,11026.484,6
+2008,Newfoundland and Labrador,Human activity,98.4,70
+2008,Newfoundland and Labrador,Lightning,1.6,2
+2009,Newfoundland and Labrador,Human activity,392.584,148
+2009,Newfoundland and Labrador,Lightning,16263.609,2
+2010,Newfoundland and Labrador,Human activity,38.6,42
+2010,Newfoundland and Labrador,Lightning,956.649,4
+2011,Newfoundland and Labrador,Human activity,38.4,34
+2012,Newfoundland and Labrador,Human activity,1671.9,109
+2012,Newfoundland and Labrador,Lightning,109.1,2
+2013,Newfoundland and Labrador,Human activity,27668.735,70
+2013,Newfoundland and Labrador,Lightning,2474.861,1
+2015,Newfoundland and Labrador,Human activity,9.9,6
+2015,Newfoundland and Labrador,Lightning,3579.9,19
+2016,Newfoundland and Labrador,Human activity,0.4,4
+2016,Newfoundland and Labrador,Lightning,10602.9,13
+2017,Newfoundland and Labrador,Human activity,62.3,77
+2017,Newfoundland and Labrador,Lightning,637.5,3
+2018,Newfoundland and Labrador,Human activity,355.2,127
+2018,Newfoundland and Labrador,Lightning,40.3,4
+2019,Newfoundland and Labrador,Human activity,106.8,89
+2019,Newfoundland and Labrador,Lightning,209.2,10
+1990,Nova Scotia,Human activity,1029.09,441
+1990,Nova Scotia,Lightning,0.2,8
+1991,Nova Scotia,Human activity,1712.09,636
+1991,Nova Scotia,Lightning,17.98,40
+1992,Nova Scotia,Human activity,1111.11,265
+1992,Nova Scotia,Lightning,0.11,2
+1993,Nova Scotia,Human activity,362.78,288
+1993,Nova Scotia,Lightning,2.8,3
+1994,Nova Scotia,Human activity,237.23,244
+1995,Nova Scotia,Human activity,369.95,353
+1995,Nova Scotia,Lightning,0.33,4
+1996,Nova Scotia,Human activity,601.63,238
+1996,Nova Scotia,Lightning,2.27,4
+1997,Nova Scotia,Human activity,501.67,307
+1997,Nova Scotia,Lightning,24.34,24
+1998,Nova Scotia,Human activity,306.67,293
+1998,Nova Scotia,Lightning,12.13,5
+1999,Nova Scotia,Human activity,1788.39,398
+1999,Nova Scotia,Lightning,16.36,27
+2000,Nova Scotia,Human activity,300.87,163
+2000,Nova Scotia,Lightning,1.99,8
+2001,Nova Scotia,Human activity,471.1,422
+2001,Nova Scotia,Lightning,7.65,15
+2002,Nova Scotia,Human activity,190.04,221
+2002,Nova Scotia,Lightning,9.72,16
+2003,Nova Scotia,Human activity,1235.99,254
+2003,Nova Scotia,Lightning,0.13,4
+2004,Nova Scotia,Human activity,287.52,250
+2004,Nova Scotia,Lightning,0.45,4
+2005,Nova Scotia,Human activity,472.0,261
+2005,Nova Scotia,Lightning,0.0,4
+2006,Nova Scotia,Human activity,1562.0,202
+2007,Nova Scotia,Human activity,508.0,323
+2007,Nova Scotia,Lightning,0.0,2
+2008,Nova Scotia,Human activity,2638.0,211
+2008,Nova Scotia,Lightning,0.0,1
+2009,Nova Scotia,Human activity,858.0,161
+2013,Nova Scotia,Human activity,295.217,157
+2013,Nova Scotia,Lightning,0.1,1
+2014,Nova Scotia,Human activity,536.6007,156
+2015,Nova Scotia,Human activity,511.4599,235
+2016,Nova Scotia,Human activity,774.987,246
+2016,Nova Scotia,Lightning,17.551,11
+2017,Nova Scotia,Human activity,572.77,175
+2018,Nova Scotia,Human activity,193.6200003,186
+2018,Nova Scotia,Lightning,1.790000031,4
+2019,Nova Scotia,Human activity,133.57,137
+2019,Nova Scotia,Lightning,0.9,2
+1990,Northwest Territories,Human activity,11.98,40
+1990,Northwest Territories,Lightning,104605.21,194
+1991,Northwest Territories,Human activity,46.97,43
+1991,Northwest Territories,Lightning,225401.42,283
+1992,Northwest Territories,Human activity,269.43,73
+1992,Northwest Territories,Lightning,34072.78,199
+1993,Northwest Territories,Human activity,84.47,67
+1993,Northwest Territories,Human activity,84.47,2
+1993,Northwest Territories,Human activity,7400.0,67
+1993,Northwest Territories,Human activity,7400.0,2
+1993,Northwest Territories,Lightning,856783.73,398
+1994,Northwest Territories,Human activity,10126.82,92
+1994,Northwest Territories,Human activity,10126.82,28
+1994,Northwest Territories,Human activity,17882.0,92
+1994,Northwest Territories,Human activity,17882.0,28
+1994,Northwest Territories,Lightning,2999302.32,525
+1995,Northwest Territories,Human activity,111783.76,67
+1995,Northwest Territories,Human activity,111783.76,8
+1995,Northwest Territories,Human activity,15996.9,67
+1995,Northwest Territories,Human activity,15996.9,8
+1995,Northwest Territories,Lightning,2715574.67,139
+1996,Northwest Territories,Human activity,84.66,20
+1996,Northwest Territories,Lightning,371460.06,330
+1997,Northwest Territories,Human activity,9.97,14
+1997,Northwest Territories,Lightning,126521.29,90
+1998,Northwest Territories,Human activity,79.72,24
+1998,Northwest Territories,Lightning,1458875.43,373
+1999,Northwest Territories,Human activity,31.65,32
+1999,Northwest Territories,Human activity,31.65,2
+1999,Northwest Territories,Human activity,11158.0,32
+1999,Northwest Territories,Human activity,11158.0,2
+1999,Northwest Territories,Lightning,549844.38,135
+2000,Northwest Territories,Human activity,20.83,19
+2000,Northwest Territories,Human activity,20.83,1
+2000,Northwest Territories,Human activity,17.8,19
+2000,Northwest Territories,Human activity,17.8,1
+2000,Northwest Territories,Lightning,177796.14,252
+2001,Northwest Territories,Human activity,5.23,21
+2001,Northwest Territories,Lightning,111256.49,106
+2002,Northwest Territories,Human activity,18.04,12
+2002,Northwest Territories,Lightning,27067.63,70
+2003,Northwest Territories,Human activity,9.3,12
+2003,Northwest Territories,Lightning,127812.1,148
+2004,Northwest Territories,Human activity,7637.95,35
+2004,Northwest Territories,Lightning,499695.38,252
+2005,Northwest Territories,Human activity,9.11,16
+2005,Northwest Territories,Lightning,216865.2,239
+2006,Northwest Territories,Human activity,68.68,23
+2006,Northwest Territories,Lightning,53312.35,139
+2007,Northwest Territories,Human activity,22183.3,37
+2007,Northwest Territories,Lightning,422923.87,141
+2008,Northwest Territories,Human activity,19.78,21
+2008,Northwest Territories,Lightning,308546.47,214
+2009,Northwest Territories,Human activity,22.6,15
+2009,Northwest Territories,Lightning,2034.15,26
+2010,Northwest Territories,Human activity,152.56,19
+2010,Northwest Territories,Lightning,350649.38,201
+2011,Northwest Territories,Human activity,151.17,25
+2011,Northwest Territories,Lightning,329358.2675,166
+2012,Northwest Territories,Human activity,597.3,29
+2012,Northwest Territories,Lightning,296543.84,245
+2013,Northwest Territories,Human activity,1188.4,16
+2013,Northwest Territories,Lightning,536684.32,232
+2014,Northwest Territories,Human activity,10616.38,18
+2014,Northwest Territories,Lightning,3407674.14,367
+2015,Northwest Territories,Human activity,4.05,16
+2015,Northwest Territories,Lightning,646983.59,229
+2016,Northwest Territories,Human activity,7819.08,17
+2016,Northwest Territories,Lightning,247180.28,171
+2017,Northwest Territories,Human activity,11.14,19
+2017,Northwest Territories,Lightning,1030247.67,242
+2018,Northwest Territories,Human activity,0.23,5
+2018,Northwest Territories,Lightning,15737.41,54
+2019,Northwest Territories,Human activity,4.54,20
+2019,Northwest Territories,Lightning,105162.63,126
+1990,Ontario,Human activity,8672.000002,940
+1990,Ontario,Lightning,174915.7,645
+1991,Ontario,Human activity,11090.2,1265
+1991,Ontario,Lightning,307671.5,1259
+1992,Ontario,Human activity,5372.600002,675
+1992,Ontario,Lightning,170595.9,262
+1993,Ontario,Human activity,9016.000001,562
+1993,Ontario,Lightning,95608.6,163
+1994,Ontario,Human activity,7455.000002,698
+1994,Ontario,Lightning,76020.3,351
+1995,Ontario,Human activity,41933.5,985
+1995,Ontario,Lightning,570412.5,1133
+1996,Ontario,Human activity,1849.800002,576
+1996,Ontario,Lightning,443461.2,669
+1997,Ontario,Human activity,2113.300002,925
+1997,Ontario,Lightning,36224.3,681
+1998,Ontario,Human activity,4137.500002,854
+1998,Ontario,Lightning,127542.1,1412
+1999,Ontario,Human activity,251129.6,633
+1999,Ontario,Lightning,76924.8,376
+2000,Ontario,Human activity,1420.500003,443
+2000,Ontario,Lightning,5293.200001,199
+2001,Ontario,Human activity,1520.1,545
+2001,Ontario,Lightning,9235.400001,1027
+2002,Ontario,Human activity,2326.700001,438
+2002,Ontario,Lightning,178041.9,703
+2003,Ontario,Human activity,8393.500002,475
+2003,Ontario,Lightning,309983.4,517
+2004,Ontario,Human activity,1487.799999,308
+2004,Ontario,Lightning,120.2000005,113
+2005,Ontario,Human activity,3167.800005,592
+2005,Ontario,Lightning,39126.8,1340
+2006,Ontario,Human activity,1762.999998,497
+2006,Ontario,Lightning,145286.1,1755
+2007,Ontario,Human activity,33191.3,564
+2007,Ontario,Human activity,33191.3,1
+2007,Ontario,Human activity,25.0,564
+2007,Ontario,Human activity,25.0,1
+2007,Ontario,Lightning,6747.100001,533
+2008,Ontario,Human activity,106.0000003,202
+2008,Ontario,Lightning,1193.7,118
+2009,Ontario,Human activity,375.4000003,251
+2009,Ontario,Lightning,20308.1,121
+2010,Ontario,Human activity,2609.4,541
+2010,Ontario,Lightning,10108.9,363
+2011,Ontario,Human activity,1850.500001,457
+2011,Ontario,Lightning,632086.6,847
+2012,Ontario,Human activity,43438.7,611
+2012,Ontario,Human activity,43438.7,1
+2012,Ontario,Human activity,1207.0,611
+2012,Ontario,Human activity,1207.0,1
+2012,Ontario,Lightning,107873.5,978
+2013,Ontario,Human activity,823.7000012,330
+2013,Ontario,Lightning,50216.4,239
+2014,Ontario,Human activity,241.9000009,180
+2014,Ontario,Human activity,241.9000009,5
+2014,Ontario,Human activity,759.0,180
+2014,Ontario,Human activity,759.0,5
+2014,Ontario,Lightning,5143.7,117
+2015,Ontario,Human activity,1243.400002,343
+2015,Ontario,Human activity,1243.400002,2
+2015,Ontario,Human activity,3411.0,343
+2015,Ontario,Human activity,3411.0,2
+2015,Ontario,Lightning,38063.8,319
+2016,Ontario,Human activity,6114.800001,451
+2016,Ontario,Human activity,6114.800001,2
+2016,Ontario,Human activity,3096.0,451
+2016,Ontario,Human activity,3096.0,2
+2016,Ontario,Lightning,76921.7,173
+2017,Ontario,Human activity,87.40000091,209
+2017,Ontario,Human activity,87.40000091,3
+2017,Ontario,Human activity,445.0,209
+2017,Ontario,Human activity,445.0,3
+2017,Ontario,Lightning,112233.0,556
+2018,Ontario,Human activity,15994.1,373
+2018,Ontario,Lightning,249675.6,943
+2019,Ontario,Human activity,16273.9,277
+2019,Ontario,Lightning,253445.7,255
+1990,Parks Canada,Human activity,8.4,7
+1990,Parks Canada,Lightning,24591.9,57
+1991,Parks Canada,Human activity,200.5,2
+1991,Parks Canada,Lightning,829.2,19
+1992,Parks Canada,Lightning,13.3,5
+1993,Parks Canada,Human activity,351.1,3
+1993,Parks Canada,Lightning,1277.7,30
+1994,Parks Canada,Lightning,67140.9,52
+1995,Parks Canada,Human activity,0.4,1
+1995,Parks Canada,Lightning,4025.6,8
+1996,Parks Canada,Lightning,13635.7,22
+1997,Parks Canada,Lightning,199.0,7
+1998,Parks Canada,Human activity,200.2,2
+1998,Parks Canada,Lightning,27808.0,41
+1999,Parks Canada,Human activity,2475.3,5
+1999,Parks Canada,Lightning,67015.2,11
+2000,Parks Canada,Human activity,5570.4,52
+2000,Parks Canada,Lightning,7437.02,76
+2001,Parks Canada,Human activity,3815.132,64
+2001,Parks Canada,Lightning,21175.611,59
+2002,Parks Canada,Human activity,2128.31,52
+2002,Parks Canada,Lightning,6753.71,43
+2003,Parks Canada,Human activity,39483.851,52
+2003,Parks Canada,Lightning,112464.6,77
+2004,Parks Canada,Human activity,3260.0126,31
+2004,Parks Canada,Lightning,195464.62,67
+2005,Parks Canada,Human activity,6244.811,42
+2005,Parks Canada,Lightning,31070.51,63
+2006,Parks Canada,Human activity,5711.59,51
+2006,Parks Canada,Lightning,20320.38,88
+2007,Parks Canada,Human activity,2241.97,66
+2007,Parks Canada,Lightning,222118.51,24
+2008,Parks Canada,Human activity,8576.212,49
+2008,Parks Canada,Human activity,8576.212,20
+2008,Parks Canada,Human activity,9255.0,49
+2008,Parks Canada,Human activity,9255.0,20
+2008,Parks Canada,Lightning,4487.8,53
+2009,Parks Canada,Human activity,19453.456,45
+2009,Parks Canada,Human activity,19453.456,19
+2009,Parks Canada,Human activity,6264.22,45
+2009,Parks Canada,Human activity,6264.22,19
+2009,Parks Canada,Lightning,17133.82,79
+2010,Parks Canada,Human activity,30.5,59
+2010,Parks Canada,Human activity,30.5,13
+2010,Parks Canada,Human activity,2110.5,59
+2010,Parks Canada,Human activity,2110.5,13
+2010,Parks Canada,Lightning,5837.2414,50
+2011,Parks Canada,Human activity,14849.933,46
+2011,Parks Canada,Human activity,14849.933,23
+2011,Parks Canada,Human activity,4816.2,46
+2011,Parks Canada,Human activity,4816.2,23
+2011,Parks Canada,Lightning,23511.41,22
+2012,Parks Canada,Human activity,262.6071,27
+2012,Parks Canada,Human activity,262.6071,15
+2012,Parks Canada,Human activity,1420.3,27
+2012,Parks Canada,Human activity,1420.3,15
+2012,Parks Canada,Lightning,272200.609,65
+2013,Parks Canada,Human activity,5015.8612,29
+2013,Parks Canada,Human activity,5015.8612,20
+2013,Parks Canada,Human activity,1121.16,29
+2013,Parks Canada,Human activity,1121.16,20
+2013,Parks Canada,Lightning,48981.54,69
+2014,Parks Canada,Human activity,0.3431,10
+2014,Parks Canada,Human activity,0.3431,12
+2014,Parks Canada,Human activity,3139.36,10
+2014,Parks Canada,Human activity,3139.36,12
+2014,Parks Canada,Lightning,267177.55,53
+2015,Parks Canada,Human activity,8.3102,32
+2015,Parks Canada,Human activity,8.3102,28
+2015,Parks Canada,Human activity,6694.1,32
+2015,Parks Canada,Human activity,6694.1,28
+2015,Parks Canada,Lightning,457818.6,80
+2016,Parks Canada,Human activity,1.5453,27
+2016,Parks Canada,Human activity,1.5453,24
+2016,Parks Canada,Human activity,3383.1538,27
+2016,Parks Canada,Human activity,3383.1538,24
+2016,Parks Canada,Lightning,7794.2901,33
+2017,Parks Canada,Human activity,3.86461,74
+2017,Parks Canada,Human activity,3.86461,13
+2017,Parks Canada,Human activity,1744.556,74
+2017,Parks Canada,Human activity,1744.556,13
+2017,Parks Canada,Lightning,92143.0224,85
+2018,Parks Canada,Human activity,193.5642,79
+2018,Parks Canada,Human activity,193.5642,19
+2018,Parks Canada,Human activity,37075.797,79
+2018,Parks Canada,Human activity,37075.797,19
+2018,Parks Canada,Lightning,25696.132,57
+2019,Parks Canada,Human activity,4.34321,29
+2019,Parks Canada,Human activity,4.34321,12
+2019,Parks Canada,Human activity,308.15,29
+2019,Parks Canada,Human activity,308.15,12
+2019,Parks Canada,Lightning,36405.98,39
+2018,Prince Edward Island,Human activity,7.39015146,8
+2019,Prince Edward Island,Human activity,14.21112824,3
+1990,Quebec,Human activity,18666.5,595
+1990,Quebec,Lightning,64676.1,256
+1991,Quebec,Human activity,42503.1,737
+1991,Quebec,Lightning,395828.3,479
+1992,Quebec,Human activity,8127.3,648
+1992,Quebec,Lightning,18984.2,117
+1993,Quebec,Human activity,1062.2,432
+1993,Quebec,Lightning,127171.8,111
+1994,Quebec,Human activity,792.9,381
+1994,Quebec,Lightning,115247.4,118
+1995,Quebec,Human activity,123078.5,672
+1995,Quebec,Lightning,604648.2,593
+1996,Quebec,Human activity,9575.9,499
+1996,Quebec,Lightning,682013.7,751
+1997,Quebec,Human activity,4713.7,514
+1997,Quebec,Lightning,388365.5,362
+1998,Quebec,Human activity,13329.3,645
+1998,Quebec,Lightning,404977.5,209
+1999,Quebec,Human activity,3927.8,778
+1999,Quebec,Lightning,93819.4,259
+2000,Quebec,Human activity,672.4,411
+2000,Quebec,Lightning,38535.9,105
+2001,Quebec,Human activity,5877.3,738
+2001,Quebec,Lightning,27190.9,265
+2002,Quebec,Human activity,5943.3,571
+2002,Quebec,Lightning,1007806.3,324
+2003,Quebec,Human activity,9398.1,523
+2003,Quebec,Lightning,78462.2,193
+2004,Quebec,Human activity,802.1,277
+2004,Quebec,Lightning,2242.1,42
+2005,Quebec,Human activity,33359.6,549
+2005,Quebec,Lightning,766770.7,825
+2006,Quebec,Human activity,65210.6,384
+2006,Quebec,Lightning,71140.5,299
+2007,Quebec,Human activity,120725.3,507
+2007,Quebec,Lightning,221956.8,428
+2008,Quebec,Human activity,148.2,188
+2008,Quebec,Lightning,1333.4,34
+2009,Quebec,Human activity,2246.3,338
+2009,Quebec,Lightning,91725.4,145
+2010,Quebec,Human activity,36000.1,497
+2010,Quebec,Lightning,278883.7,240
+2011,Quebec,Human activity,2272.7,231
+2011,Quebec,Lightning,10124.8,98
+2012,Quebec,Human activity,24781.7,521
+2012,Quebec,Lightning,39261.4,274
+2013,Quebec,Human activity,17130.7,364
+2013,Quebec,Lightning,1855711.5,151
+2014,Quebec,Human activity,8416.5,224
+2014,Quebec,Lightning,55304.2,68
+2015,Quebec,Human activity,1460.3,338
+2015,Quebec,Lightning,3919.3,46
+2016,Quebec,Human activity,334.4,431
+2016,Quebec,Lightning,33036.4,171
+2017,Quebec,Human activity,1692.7,234
+2017,Quebec,Lightning,36699.2,83
+2018,Quebec,Human activity,15772.1,398
+2018,Quebec,Lightning,70488.6,194
+2019,Quebec,Human activity,5087.1,276
+2019,Quebec,Lightning,4516.9,81
+1990,Saskatchewan,Human activity,35848.28615,434
+1990,Saskatchewan,Lightning,180207.3921,463
+1991,Saskatchewan,Human activity,33955.16,493
+1991,Saskatchewan,Lightning,164219.95,269
+1992,Saskatchewan,Human activity,9635.18,471
+1992,Saskatchewan,Lightning,88121.21,228
+1993,Saskatchewan,Human activity,132315.19,462
+1993,Saskatchewan,Lightning,475884.65,183
+1994,Saskatchewan,Human activity,3770.36,435
+1994,Saskatchewan,Lightning,842249.09,262
+1995,Saskatchewan,Human activity,63833.71,295
+1995,Saskatchewan,Lightning,1584600.18,355
+1996,Saskatchewan,Human activity,732.31,207
+1996,Saskatchewan,Lightning,12254.68,218
+1997,Saskatchewan,Human activity,1669.69,232
+1997,Saskatchewan,Lightning,2207.22,257
+1998,Saskatchewan,Human activity,158432.55,438
+1998,Saskatchewan,Lightning,880263.67,828
+1999,Saskatchewan,Human activity,9135.45,245
+1999,Saskatchewan,Lightning,171684.79,495
+2000,Saskatchewan,Human activity,10779.06,234
+2000,Saskatchewan,Lightning,130027.11,180
+2001,Saskatchewan,Human activity,39183.66,539
+2001,Saskatchewan,Lightning,164244.76,317
+2002,Saskatchewan,Human activity,101467.57,440
+2002,Saskatchewan,Lightning,778142.47,440
+2003,Saskatchewan,Human activity,12668.23,288
+2003,Saskatchewan,Lightning,112995.52,352
+2004,Saskatchewan,Human activity,7405.16,164
+2004,Saskatchewan,Lightning,250726.45,165
+2005,Saskatchewan,Human activity,8276.24,127
+2005,Saskatchewan,Lightning,205497.22,196
+2006,Saskatchewan,Human activity,181715.17,166
+2006,Saskatchewan,Lightning,1022011.37,334
+2007,Saskatchewan,Human activity,4569.16,233
+2007,Saskatchewan,Lightning,208303.96,133
+2008,Saskatchewan,Human activity,30996.62,316
+2008,Saskatchewan,Lightning,1099180.61,282
+2009,Saskatchewan,Human activity,4822.03,328
+2009,Saskatchewan,Lightning,32737.34,183
+2010,Saskatchewan,Human activity,208237.07,230
+2010,Saskatchewan,Lightning,1526570.11,341
+2011,Saskatchewan,Human activity,55403.5,239
+2011,Saskatchewan,Lightning,288316.49,64
+2012,Saskatchewan,Human activity,6600.1,206
+2012,Saskatchewan,Lightning,220910.3,202
+2013,Saskatchewan,Human activity,7202.6,269
+2013,Saskatchewan,Lightning,356634.5,160
+2014,Saskatchewan,Human activity,15529.66,209
+2014,Saskatchewan,Lightning,327253.82,194
+2015,Saskatchewan,Human activity,41757.38082,344
+2015,Saskatchewan,Lightning,1716975.669,379
+2016,Saskatchewan,Human activity,2773.5,230
+2016,Saskatchewan,Lightning,251990.9,171
+2017,Saskatchewan,Human activity,451.2,191
+2017,Saskatchewan,Lightning,398546.5,162
+2018,Saskatchewan,Human activity,47146.6,271
+2018,Saskatchewan,Lightning,108550.2,162
+2019,Saskatchewan,Human activity,1531.4,178
+2019,Saskatchewan,Lightning,46622.2,72
+1990,Yukon,Human activity,1412.99,81
+1990,Yukon,Lightning,181478.93,73
+1991,Yukon,Human activity,805.14,62
+1991,Yukon,Lightning,119465.68,125
+1992,Yukon,Human activity,5998.23,48
+1992,Yukon,Lightning,31816.84,68
+1993,Yukon,Human activity,56.58,59
+1993,Yukon,Lightning,115047.73,77
+1994,Yukon,Human activity,29.37,70
+1994,Yukon,Lightning,421681.02,185
+1995,Yukon,Human activity,389.76,71
+1995,Yukon,Lightning,260989.98,76
+1996,Yukon,Human activity,15040.38,66
+1996,Yukon,Lightning,76026.75,83
+1997,Yukon,Human activity,78.81,69
+1997,Yukon,Lightning,11391.24,43
+1998,Yukon,Human activity,63760.73,110
+1998,Yukon,Lightning,279911.67,87
+1999,Yukon,Human activity,3280.24,40
+1999,Yukon,Lightning,191536.24,119
+2000,Yukon,Human activity,10.33,31
+2000,Yukon,Lightning,7642.53,23
+2001,Yukon,Human activity,6.82,18
+2001,Yukon,Lightning,17327.66,50
+2002,Yukon,Human activity,22.66,38
+2002,Yukon,Lightning,36181.45,31
+2003,Yukon,Human activity,2940.47,48
+2003,Yukon,Lightning,45844.86,29
+2004,Yukon,Human activity,11631.47,33
+2004,Yukon,Lightning,1708032.62,249
+2005,Yukon,Human activity,1.51,26
+2005,Yukon,Lightning,187436.83,57
+2006,Yukon,Human activity,4.04,26
+2006,Yukon,Lightning,95029.3,54
+2007,Yukon,Human activity,13989.01,20
+2007,Yukon,Lightning,23718.75,90
+2008,Yukon,Human activity,11.83,27
+2008,Yukon,Lightning,13056.05,49
+2009,Yukon,Human activity,3.23,33
+2009,Yukon,Lightning,230509.12,85
+2010,Yukon,Human activity,5261.48,38
+2010,Yukon,Lightning,141701.69,50
+2011,Yukon,Human activity,119.88,16
+2011,Yukon,Lightning,40344.45,40
+2012,Yukon,Human activity,6.47,34
+2012,Yukon,Lightning,58273.73,92
+2013,Yukon,Human activity,6.45,21
+2013,Yukon,Lightning,198307.34,156
+2014,Yukon,Human activity,23.581,18
+2014,Yukon,Lightning,3137.013,16
+2015,Yukon,Human activity,41.9,24
+2015,Yukon,Lightning,169799.71,161
+2016,Yukon,Human activity,2.28,24
+2016,Yukon,Lightning,21535.12,29
+2017,Yukon,Human activity,18.7,22
+2017,Yukon,Lightning,399261.45,93
+2018,Yukon,Human activity,6487.33,18
+2018,Yukon,Lightning,74098.16,33
+2019,Yukon,Human activity,1331.3,33
+2019,Yukon,Lightning,254705.32,84
