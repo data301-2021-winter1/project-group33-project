@@ -13,9 +13,8 @@ def intial_process(df1,df2):
     return df
 
 def drop_origine(df):
-    # Drops rows where the Cause column has value Unspecified and drops the column titled 'Origine'
-    df=df[df["Cause"]!="Unspecified" ].drop("Origine",axis='columns')
-    df=df[df["Cause"]!="Reburn"]
+    # Drops rows where the Cause column has value Unspecified and Reburn, and then drops the column titled 'Origine'
+    df=df[ (df["Cause"]!="Unspecified") & (df["Cause"]!="Reburn") ].drop("Origine",axis='columns')
     return df
 
 def drop_french_firesize(df):
