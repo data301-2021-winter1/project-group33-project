@@ -1,729 +1,723 @@
-Year,Jurisdiction,Cause,Area (hectares),Number
-1990,Alberta,Human activity,2385.4,372
-1990,Alberta,Lightning,30890.7,914
-1991,Alberta,Human activity,2260.5,431
-1991,Alberta,Lightning,3769.3,466
-1992,Alberta,Human activity,2002.2,398
-1992,Alberta,Lightning,1075.2,626
-1993,Alberta,Human activity,1138.61,303
-1993,Alberta,Lightning,24892.7,517
-1994,Alberta,Human activity,2484.8,361
-1994,Alberta,Lightning,27057.68,499
-1995,Alberta,Human activity,7886.62,413
-1995,Alberta,Lightning,327019.99,358
-1996,Alberta,Human activity,655.24,143
-1996,Alberta,Lightning,1281.76,217
-1997,Alberta,Human activity,4383.07,204
-1997,Alberta,Lightning,322.27,242
-1998,Alberta,Human activity,74976.88,448
-1998,Alberta,Lightning,651766.17,1192
-1999,Alberta,Human activity,3722.86,443
-1999,Alberta,Human activity,0.0,1
-1999,Alberta,Lightning,116724.7,890
-2000,Alberta,Human activity,4759.14,337
-2000,Alberta,Lightning,9958.0,429
-2001,Alberta,Human activity,137095.04,465
-2001,Alberta,Lightning,16932.3,490
-2002,Alberta,Human activity,247826.19,565
-2002,Alberta,Human activity,7.0,1
-2002,Alberta,Lightning,248579.43,868
-2003,Alberta,Human activity,3575.9,643
-2003,Alberta,Lightning,51372.71,526
-2004,Alberta,Human activity,4207.78,861
-2004,Alberta,Human activity,0.2,1
-2004,Alberta,Lightning,231905.13,732
-2005,Alberta,Human activity,12036.34,901
-2005,Alberta,Human activity,3.91,2
-2005,Alberta,Lightning,48640.28,433
-2006,Alberta,Human activity,21166.12,1197
-2006,Alberta,Human activity,1.79,7
-2006,Alberta,Lightning,97576.92,747
-2007,Alberta,Human activity,857.97,798
-2007,Alberta,Lightning,102757.68,513
-2008,Alberta,Human activity,2163.68,890
-2008,Alberta,Human activity,42.11,3
-2008,Alberta,Lightning,18522.77,779
-2009,Alberta,Human activity,2885.58,1048
-2009,Alberta,Human activity,735.87,6
-2009,Alberta,Lightning,63251.5,566
-2010,Alberta,Human activity,2268.74,1101
-2010,Alberta,Human activity,1.5,1
-2010,Alberta,Lightning,78830.84,741
-2011,Alberta,Human activity,128203.33,922
-2011,Alberta,Human activity,0.6,2
-2011,Alberta,Lightning,74245.95,215
-2012,Alberta,Human activity,7553.0,1127
-2012,Alberta,Lightning,377851.12,436
-2013,Alberta,Human activity,2101.0,890
-2013,Alberta,Lightning,17372.64,287
-2014,Alberta,Human activity,1203.51,859
-2014,Alberta,Lightning,22470.08,563
-2015,Alberta,Human activity,38610.55,1009
-2015,Alberta,Lightning,427638.87,772
-2016,Alberta,Human activity,1134.0,861
-2016,Alberta,Lightning,20015.05,514
-2017,Alberta,Human activity,6832.69,787
-2017,Alberta,Lightning,42316.3,416
-2018,Alberta,Human activity,1887.8,731
-2018,Alberta,Lightning,57901.81,512
-2019,Alberta,Human activity,3025.94,705
-2019,Alberta,Lightning,127692.59,288
-1990,British Columbia,Human activity,40278.3,1240
-1990,British Columbia,Lightning,35503.5,2015
-1991,British Columbia,Human activity,10923.6,1253
-1991,British Columbia,Lightning,13785.2,760
-1992,British Columbia,Human activity,15559.9,1461
-1992,British Columbia,Lightning,14892.9,2344
-1993,British Columbia,Human activity,3400.2,886
-1993,British Columbia,Lightning,1783.2,611
-1994,British Columbia,Human activity,12017.1,1169
-1994,British Columbia,Lightning,17738.2,2888
-1995,British Columbia,Human activity,19714.4,1130
-1995,British Columbia,Lightning,28365.6,344
-1996,British Columbia,Human activity,6579.8,633
-1996,British Columbia,Lightning,14089.3,727
-1997,British Columbia,Human activity,2635.4,489
-1997,British Columbia,Lightning,332.4,687
-1998,British Columbia,Human activity,6552.156,910
-1998,British Columbia,Lightning,70015.188,1752
-1999,British Columbia,Human activity,4834.0,597
-1999,British Columbia,Lightning,6721.41,601
-2000,British Columbia,Human activity,11361.754,684
-2000,British Columbia,Lightning,6190.258,842
-2001,British Columbia,Human activity,4843.569,812
-2001,British Columbia,Lightning,4983.38,479
-2002,British Columbia,Human activity,4353.763,900
-2002,British Columbia,Lightning,4216.797,872
-2003,British Columbia,Human activity,81744.683,942
-2003,British Columbia,Lightning,183168.879,1515
-2004,British Columbia,Human activity,2175.187,693
-2004,British Columbia,Lightning,218112.29,1712
-2005,British Columbia,Human activity,7844.705,607
-2005,British Columbia,Lightning,27097.361,387
-2006,British Columbia,Human activity,9454.723,1026
-2006,British Columbia,Lightning,129696.069,1534
-2007,British Columbia,Human activity,12242.438,688
-2007,British Columbia,Lightning,17243.066,919
-2008,British Columbia,Human activity,8649.034,842
-2008,British Columbia,Lightning,4661.254,1182
-2009,British Columbia,Human activity,26716.472,873
-2009,British Columbia,Lightning,220626.996,2176
-2010,British Columbia,Human activity,10435.463,696
-2010,British Columbia,Lightning,326731.735,993
-2011,British Columbia,Human activity,1183.169,437
-2011,British Columbia,Lightning,11379.716,209
-2012,British Columbia,Human activity,5606.892,699
-2012,British Columbia,Lightning,96509.765,941
-2013,British Columbia,Human activity,4954.336,571
-2013,British Columbia,Lightning,13348.763,1296
-2014,British Columbia,Human activity,8085.204,653
-2014,British Columbia,Lightning,360840.982,816
-2015,British Columbia,Human activity,57126.995,623
-2015,British Columbia,Lightning,223737.266,1240
-2016,British Columbia,Human activity,93320.648,583
-2016,British Columbia,Lightning,7056.983,485
-2017,British Columbia,Human activity,225057.873,562
-2017,British Columbia,Lightning,991081.007,784
-2018,British Columbia,Human activity,121607.451,534
-2018,British Columbia,Lightning,1229431.195,1535
-2019,British Columbia,Human activity,4665.837,359
-2019,British Columbia,Lightning,15584.59,374
-2020,British Columbia,Human activity,86.538,16
-1990,Manitoba,Human activity,5719.0,283
-1990,Manitoba,Lightning,10426.0,279
-1991,Manitoba,Human activity,20668.1,205
-1991,Manitoba,Lightning,130317.6,467
-1992,Manitoba,Human activity,90957.6,103
-1992,Manitoba,Lightning,342816.2,195
-1993,Manitoba,Human activity,5117.4,102
-1993,Manitoba,Lightning,62157.0,137
-1994,Manitoba,Human activity,471729.6,134
-1994,Manitoba,Lightning,957056.1,421
-1995,Manitoba,Human activity,7366.5,262
-1995,Manitoba,Lightning,881870.6,399
-1996,Manitoba,Human activity,2882.7,187
-1996,Manitoba,Lightning,122443.7,237
-1997,Manitoba,Human activity,3648.7,189
-1997,Manitoba,Lightning,38150.4,184
-1998,Manitoba,Human activity,4837.8,296
-1998,Manitoba,Lightning,445734.3,220
-1999,Manitoba,Human activity,53387.8,329
-1999,Manitoba,Lightning,57065.7,284
-2004,Manitoba,Human activity,362.0,14
-2004,Manitoba,Lightning,18074.1,32
-2005,Manitoba,Human activity,3585.2,106
-2005,Manitoba,Lightning,69095.4,142
-2006,Manitoba,Human activity,6613.3,260
-2006,Manitoba,Lightning,159437.0,422
-2007,Manitoba,Human activity,4912.9,220
-2007,Manitoba,Lightning,331367.9,162
-2008,Manitoba,Human activity,73198.2,254
-2008,Manitoba,Lightning,77474.4,143
-2009,Manitoba,Human activity,2230.2,117
-2009,Manitoba,Lightning,641.8,67
-2010,Manitoba,Human activity,22395.4,245
-2010,Manitoba,Lightning,165098.7,338
-2011,Manitoba,Human activity,26229.1,156
-2011,Manitoba,Lightning,100615.2,159
-2012,Manitoba,Human activity,21026.9,204
-2012,Manitoba,Lightning,195861.4,293
-2013,Manitoba,Human activity,895.6,192
-2013,Manitoba,Lightning,1114519.2,302
-2014,Manitoba,Human activity,1171.5,115
-2014,Manitoba,Lightning,37936.4,130
-2015,Manitoba,Human activity,6778.6,164
-2015,Manitoba,Lightning,61353.0,295
-2016,Manitoba,Human activity,6700.6,106
-2016,Manitoba,Lightning,31706.9,96
-2017,Manitoba,Human activity,1365.9,136
-2017,Manitoba,Lightning,221813.6,421
-2018,Manitoba,Human activity,78900.9,232
-2018,Manitoba,Lightning,155320.8,244
-2019,Manitoba,Human activity,7936.2,145
-2019,Manitoba,Lightning,63317.9,132
-1990,New Brunswick,Human activity,6188.1,318
-1990,New Brunswick,Lightning,6.9,29
-1991,New Brunswick,Human activity,3417.3,498
-1991,New Brunswick,Lightning,56.7,86
-1992,New Brunswick,Human activity,5330.9,500
-1992,New Brunswick,Lightning,32.2,22
-1993,New Brunswick,Human activity,417.0,349
-1993,New Brunswick,Lightning,323.2,31
-1994,New Brunswick,Human activity,752.0,433
-1994,New Brunswick,Lightning,2.9,15
-1995,New Brunswick,Human activity,408.5,395
-1995,New Brunswick,Lightning,45.9,81
-1996,New Brunswick,Human activity,1027.5,239
-1996,New Brunswick,Lightning,908.1,84
-1997,New Brunswick,Human activity,219.8,290
-1997,New Brunswick,Lightning,17.1,33
-1998,New Brunswick,Human activity,274.9,224
-1998,New Brunswick,Lightning,4.1,18
-1999,New Brunswick,Human activity,831.0,378
-1999,New Brunswick,Lightning,545.7,161
-2000,New Brunswick,Human activity,370.0,256
-2000,New Brunswick,Lightning,70.8,20
-2001,New Brunswick,Human activity,473.3,338
-2001,New Brunswick,Lightning,25.3,56
-2002,New Brunswick,Human activity,255.5,211
-2002,New Brunswick,Lightning,33.0,55
-2003,New Brunswick,Human activity,213.7,180
-2003,New Brunswick,Lightning,4.3,22
-2004,New Brunswick,Human activity,385.8,209
-2004,New Brunswick,Lightning,4.6,8
-2005,New Brunswick,Human activity,455.4,255
-2005,New Brunswick,Lightning,9.9,25
-2006,New Brunswick,Human activity,574.4,249
-2006,New Brunswick,Lightning,8.7,27
-2007,New Brunswick,Human activity,384.4,254
-2007,New Brunswick,Lightning,25.2,30
-2008,New Brunswick,Human activity,125.7,140
-2008,New Brunswick,Lightning,6.8,13
-2009,New Brunswick,Human activity,233.7,182
-2009,New Brunswick,Lightning,0.2,2
-2010,New Brunswick,Human activity,130.5,143
-2010,New Brunswick,Lightning,10.8,9
-2011,New Brunswick,Human activity,33.4,55
-2011,New Brunswick,Lightning,2.2,4
-2012,New Brunswick,Human activity,287.9,277
-2012,New Brunswick,Lightning,0.8,6
-2013,New Brunswick,Human activity,845.5,315
-2013,New Brunswick,Lightning,0.2,2
-2014,New Brunswick,Human activity,101.3,154
-2014,New Brunswick,Lightning,0.5,4
-2015,New Brunswick,Human activity,197.7,185
-2015,New Brunswick,Lightning,45.6,8
-2016,New Brunswick,Human activity,199.2,238
-2016,New Brunswick,Lightning,21.7,13
-2017,New Brunswick,Human activity,530.3,182
-2017,New Brunswick,Lightning,19.7,29
-2018,New Brunswick,Human activity,250.1,229
-2018,New Brunswick,Lightning,16.5,19
-2019,New Brunswick,Human activity,183.6,152
-2019,New Brunswick,Lightning,14.1,14
-1990,Newfoundland and Labrador,Human activity,3825.3,154
-1990,Newfoundland and Labrador,Lightning,20777.0,11
-1991,Newfoundland and Labrador,Human activity,6863.4,92
-1991,Newfoundland and Labrador,Lightning,49526.6,23
-1992,Newfoundland and Labrador,Human activity,1435.5,99
-1992,Newfoundland and Labrador,Lightning,374.2,7
-1993,Newfoundland and Labrador,Human activity,55.4,53
-1993,Newfoundland and Labrador,Lightning,28425.0,12
-1994,Newfoundland and Labrador,Human activity,1309.7,122
-1994,Newfoundland and Labrador,Lightning,108964.5,7
-1995,Newfoundland and Labrador,Human activity,301.1,84
-1995,Newfoundland and Labrador,Lightning,400.0,2
-1996,Newfoundland and Labrador,Human activity,3161.1,82
-1996,Newfoundland and Labrador,Lightning,78149.3,29
-1997,Newfoundland and Labrador,Human activity,8261.5,68
-1997,Newfoundland and Labrador,Lightning,283.2,10
-1998,Newfoundland and Labrador,Human activity,1085.5,159
-1998,Newfoundland and Labrador,Lightning,39075.7,21
-1999,Newfoundland and Labrador,Human activity,11262.4,165
-1999,Newfoundland and Labrador,Lightning,27777.8,23
-2000,Newfoundland and Labrador,Human activity,232.0,124
-2000,Newfoundland and Labrador,Lightning,103304.167,25
-2001,Newfoundland and Labrador,Human activity,324.6,165
-2001,Newfoundland and Labrador,Lightning,640.988,16
-2002,Newfoundland and Labrador,Human activity,260.1,85
-2002,Newfoundland and Labrador,Lightning,14524.546,14
-2003,Newfoundland and Labrador,Human activity,683.0,125
-2003,Newfoundland and Labrador,Lightning,27028.13,15
-2004,Newfoundland and Labrador,Human activity,1224.5,122
-2004,Newfoundland and Labrador,Lightning,931.586,2
-2005,Newfoundland and Labrador,Human activity,187.2,115
-2005,Newfoundland and Labrador,Lightning,18061.319,6
-2006,Newfoundland and Labrador,Human activity,153.7,61
-2006,Newfoundland and Labrador,Lightning,3311.868,5
-2007,Newfoundland and Labrador,Human activity,324.146,59
-2007,Newfoundland and Labrador,Lightning,11026.484,6
-2008,Newfoundland and Labrador,Human activity,98.4,70
-2008,Newfoundland and Labrador,Lightning,1.6,2
-2009,Newfoundland and Labrador,Human activity,392.584,148
-2009,Newfoundland and Labrador,Lightning,16263.609,2
-2010,Newfoundland and Labrador,Human activity,38.6,42
-2010,Newfoundland and Labrador,Lightning,956.649,4
-2011,Newfoundland and Labrador,Human activity,38.4,34
-2012,Newfoundland and Labrador,Human activity,1671.9,109
-2012,Newfoundland and Labrador,Lightning,109.1,2
-2013,Newfoundland and Labrador,Human activity,27668.735,70
-2013,Newfoundland and Labrador,Lightning,2474.861,1
-2015,Newfoundland and Labrador,Human activity,9.9,6
-2015,Newfoundland and Labrador,Lightning,3579.9,19
-2016,Newfoundland and Labrador,Human activity,0.4,4
-2016,Newfoundland and Labrador,Lightning,10602.9,13
-2017,Newfoundland and Labrador,Human activity,62.3,77
-2017,Newfoundland and Labrador,Lightning,637.5,3
-2018,Newfoundland and Labrador,Human activity,355.2,127
-2018,Newfoundland and Labrador,Lightning,40.3,4
-2019,Newfoundland and Labrador,Human activity,106.8,89
-2019,Newfoundland and Labrador,Lightning,209.2,10
-1990,Nova Scotia,Human activity,1029.09,441
-1990,Nova Scotia,Lightning,0.2,8
-1991,Nova Scotia,Human activity,1712.09,636
-1991,Nova Scotia,Lightning,17.98,40
-1992,Nova Scotia,Human activity,1111.11,265
-1992,Nova Scotia,Lightning,0.11,2
-1993,Nova Scotia,Human activity,362.78,288
-1993,Nova Scotia,Lightning,2.8,3
-1994,Nova Scotia,Human activity,237.23,244
-1995,Nova Scotia,Human activity,369.95,353
-1995,Nova Scotia,Lightning,0.33,4
-1996,Nova Scotia,Human activity,601.63,238
-1996,Nova Scotia,Lightning,2.27,4
-1997,Nova Scotia,Human activity,501.67,307
-1997,Nova Scotia,Lightning,24.34,24
-1998,Nova Scotia,Human activity,306.67,293
-1998,Nova Scotia,Lightning,12.13,5
-1999,Nova Scotia,Human activity,1788.39,398
-1999,Nova Scotia,Lightning,16.36,27
-2000,Nova Scotia,Human activity,300.87,163
-2000,Nova Scotia,Lightning,1.99,8
-2001,Nova Scotia,Human activity,471.1,422
-2001,Nova Scotia,Lightning,7.65,15
-2002,Nova Scotia,Human activity,190.04,221
-2002,Nova Scotia,Lightning,9.72,16
-2003,Nova Scotia,Human activity,1235.99,254
-2003,Nova Scotia,Lightning,0.13,4
-2004,Nova Scotia,Human activity,287.52,250
-2004,Nova Scotia,Lightning,0.45,4
-2005,Nova Scotia,Human activity,472.0,261
-2005,Nova Scotia,Lightning,0.0,4
-2006,Nova Scotia,Human activity,1562.0,202
-2007,Nova Scotia,Human activity,508.0,323
-2007,Nova Scotia,Lightning,0.0,2
-2008,Nova Scotia,Human activity,2638.0,211
-2008,Nova Scotia,Lightning,0.0,1
-2009,Nova Scotia,Human activity,858.0,161
-2013,Nova Scotia,Human activity,295.217,157
-2013,Nova Scotia,Lightning,0.1,1
-2014,Nova Scotia,Human activity,536.6007,156
-2015,Nova Scotia,Human activity,511.4599,235
-2016,Nova Scotia,Human activity,774.987,246
-2016,Nova Scotia,Lightning,17.551,11
-2017,Nova Scotia,Human activity,572.77,175
-2018,Nova Scotia,Human activity,193.6200003,186
-2018,Nova Scotia,Lightning,1.790000031,4
-2019,Nova Scotia,Human activity,133.57,137
-2019,Nova Scotia,Lightning,0.9,2
-1990,Northwest Territories,Human activity,11.98,40
-1990,Northwest Territories,Lightning,104605.21,194
-1991,Northwest Territories,Human activity,46.97,43
-1991,Northwest Territories,Lightning,225401.42,283
-1992,Northwest Territories,Human activity,269.43,73
-1992,Northwest Territories,Lightning,34072.78,199
-1993,Northwest Territories,Human activity,84.47,67
-1993,Northwest Territories,Human activity,7400.0,2
-1993,Northwest Territories,Lightning,856783.73,398
-1994,Northwest Territories,Human activity,10126.82,92
-1994,Northwest Territories,Human activity,17882.0,28
-1994,Northwest Territories,Lightning,2999302.32,525
-1995,Northwest Territories,Human activity,111783.76,67
-1995,Northwest Territories,Human activity,15996.9,8
-1995,Northwest Territories,Lightning,2715574.67,139
-1996,Northwest Territories,Human activity,84.66,20
-1996,Northwest Territories,Lightning,371460.06,330
-1997,Northwest Territories,Human activity,9.97,14
-1997,Northwest Territories,Lightning,126521.29,90
-1998,Northwest Territories,Human activity,79.72,24
-1998,Northwest Territories,Lightning,1458875.43,373
-1999,Northwest Territories,Human activity,31.65,32
-1999,Northwest Territories,Human activity,11158.0,2
-1999,Northwest Territories,Lightning,549844.38,135
-2000,Northwest Territories,Human activity,20.83,19
-2000,Northwest Territories,Human activity,17.8,1
-2000,Northwest Territories,Lightning,177796.14,252
-2001,Northwest Territories,Human activity,5.23,21
-2001,Northwest Territories,Lightning,111256.49,106
-2002,Northwest Territories,Human activity,18.04,12
-2002,Northwest Territories,Lightning,27067.63,70
-2003,Northwest Territories,Human activity,9.3,12
-2003,Northwest Territories,Lightning,127812.1,148
-2004,Northwest Territories,Human activity,7637.95,35
-2004,Northwest Territories,Lightning,499695.38,252
-2005,Northwest Territories,Human activity,9.11,16
-2005,Northwest Territories,Lightning,216865.2,239
-2006,Northwest Territories,Human activity,68.68,23
-2006,Northwest Territories,Lightning,53312.35,139
-2007,Northwest Territories,Human activity,22183.3,37
-2007,Northwest Territories,Lightning,422923.87,141
-2008,Northwest Territories,Human activity,19.78,21
-2008,Northwest Territories,Lightning,308546.47,214
-2009,Northwest Territories,Human activity,22.6,15
-2009,Northwest Territories,Lightning,2034.15,26
-2010,Northwest Territories,Human activity,152.56,19
-2010,Northwest Territories,Lightning,350649.38,201
-2011,Northwest Territories,Human activity,151.17,25
-2011,Northwest Territories,Lightning,329358.2675,166
-2012,Northwest Territories,Human activity,597.3,29
-2012,Northwest Territories,Lightning,296543.84,245
-2013,Northwest Territories,Human activity,1188.4,16
-2013,Northwest Territories,Lightning,536684.32,232
-2014,Northwest Territories,Human activity,10616.38,18
-2014,Northwest Territories,Lightning,3407674.14,367
-2015,Northwest Territories,Human activity,4.05,16
-2015,Northwest Territories,Lightning,646983.59,229
-2016,Northwest Territories,Human activity,7819.08,17
-2016,Northwest Territories,Lightning,247180.28,171
-2017,Northwest Territories,Human activity,11.14,19
-2017,Northwest Territories,Lightning,1030247.67,242
-2018,Northwest Territories,Human activity,0.23,5
-2018,Northwest Territories,Lightning,15737.41,54
-2019,Northwest Territories,Human activity,4.54,20
-2019,Northwest Territories,Lightning,105162.63,126
-1990,Ontario,Human activity,8672.000002,940
-1990,Ontario,Lightning,174915.7,645
-1991,Ontario,Human activity,11090.2,1265
-1991,Ontario,Lightning,307671.5,1259
-1992,Ontario,Human activity,5372.600002,675
-1992,Ontario,Lightning,170595.9,262
-1993,Ontario,Human activity,9016.000001,562
-1993,Ontario,Lightning,95608.6,163
-1994,Ontario,Human activity,7455.000002,698
-1994,Ontario,Lightning,76020.3,351
-1995,Ontario,Human activity,41933.5,985
-1995,Ontario,Lightning,570412.5,1133
-1996,Ontario,Human activity,1849.800002,576
-1996,Ontario,Lightning,443461.2,669
-1997,Ontario,Human activity,2113.300002,925
-1997,Ontario,Lightning,36224.3,681
-1998,Ontario,Human activity,4137.500002,854
-1998,Ontario,Lightning,127542.1,1412
-1999,Ontario,Human activity,251129.6,633
-1999,Ontario,Lightning,76924.8,376
-2000,Ontario,Human activity,1420.500003,443
-2000,Ontario,Lightning,5293.200001,199
-2001,Ontario,Human activity,1520.1,545
-2001,Ontario,Lightning,9235.400001,1027
-2002,Ontario,Human activity,2326.700001,438
-2002,Ontario,Lightning,178041.9,703
-2003,Ontario,Human activity,8393.500002,475
-2003,Ontario,Lightning,309983.4,517
-2004,Ontario,Human activity,1487.799999,308
-2004,Ontario,Lightning,120.2000005,113
-2005,Ontario,Human activity,3167.800005,592
-2005,Ontario,Lightning,39126.8,1340
-2006,Ontario,Human activity,1762.999998,497
-2006,Ontario,Lightning,145286.1,1755
-2007,Ontario,Human activity,33191.3,564
-2007,Ontario,Human activity,25.0,1
-2007,Ontario,Lightning,6747.100001,533
-2008,Ontario,Human activity,106.0000003,202
-2008,Ontario,Lightning,1193.7,118
-2009,Ontario,Human activity,375.4000003,251
-2009,Ontario,Lightning,20308.1,121
-2010,Ontario,Human activity,2609.4,541
-2010,Ontario,Lightning,10108.9,363
-2011,Ontario,Human activity,1850.500001,457
-2011,Ontario,Lightning,632086.6,847
-2012,Ontario,Human activity,43438.7,611
-2012,Ontario,Human activity,1207.0,1
-2012,Ontario,Lightning,107873.5,978
-2013,Ontario,Human activity,823.7000012,330
-2013,Ontario,Lightning,50216.4,239
-2014,Ontario,Human activity,241.9000009,180
-2014,Ontario,Human activity,759.0,5
-2014,Ontario,Lightning,5143.7,117
-2015,Ontario,Human activity,1243.400002,343
-2015,Ontario,Human activity,3411.0,2
-2015,Ontario,Lightning,38063.8,319
-2016,Ontario,Human activity,6114.800001,451
-2016,Ontario,Human activity,3096.0,2
-2016,Ontario,Lightning,76921.7,173
-2017,Ontario,Human activity,87.40000091,209
-2017,Ontario,Human activity,445.0,3
-2017,Ontario,Lightning,112233.0,556
-2018,Ontario,Human activity,15994.1,373
-2018,Ontario,Lightning,249675.6,943
-2019,Ontario,Human activity,16273.9,277
-2019,Ontario,Lightning,253445.7,255
-1990,Parks Canada,Human activity,8.4,7
-1990,Parks Canada,Lightning,24591.9,57
-1991,Parks Canada,Human activity,200.5,2
-1991,Parks Canada,Lightning,829.2,19
-1992,Parks Canada,Lightning,13.3,5
-1993,Parks Canada,Human activity,351.1,3
-1993,Parks Canada,Lightning,1277.7,30
-1994,Parks Canada,Lightning,67140.9,52
-1995,Parks Canada,Human activity,0.4,1
-1995,Parks Canada,Lightning,4025.6,8
-1996,Parks Canada,Lightning,13635.7,22
-1997,Parks Canada,Lightning,199.0,7
-1998,Parks Canada,Human activity,200.2,2
-1998,Parks Canada,Lightning,27808.0,41
-1999,Parks Canada,Human activity,2475.3,5
-1999,Parks Canada,Lightning,67015.2,11
-2000,Parks Canada,Human activity,5570.4,52
-2000,Parks Canada,Lightning,7437.02,76
-2001,Parks Canada,Human activity,3815.132,64
-2001,Parks Canada,Lightning,21175.611,59
-2002,Parks Canada,Human activity,2128.31,52
-2002,Parks Canada,Lightning,6753.71,43
-2003,Parks Canada,Human activity,39483.851,52
-2003,Parks Canada,Lightning,112464.6,77
-2004,Parks Canada,Human activity,3260.0126,31
-2004,Parks Canada,Lightning,195464.62,67
-2005,Parks Canada,Human activity,6244.811,42
-2005,Parks Canada,Lightning,31070.51,63
-2006,Parks Canada,Human activity,5711.59,51
-2006,Parks Canada,Lightning,20320.38,88
-2007,Parks Canada,Human activity,2241.97,66
-2007,Parks Canada,Lightning,222118.51,24
-2008,Parks Canada,Human activity,8576.212,49
-2008,Parks Canada,Human activity,9255.0,20
-2008,Parks Canada,Lightning,4487.8,53
-2009,Parks Canada,Human activity,19453.456,45
-2009,Parks Canada,Human activity,6264.22,19
-2009,Parks Canada,Lightning,17133.82,79
-2010,Parks Canada,Human activity,30.5,59
-2010,Parks Canada,Human activity,2110.5,13
-2010,Parks Canada,Lightning,5837.2414,50
-2011,Parks Canada,Human activity,14849.933,46
-2011,Parks Canada,Human activity,4816.2,23
-2011,Parks Canada,Lightning,23511.41,22
-2012,Parks Canada,Human activity,262.6071,27
-2012,Parks Canada,Human activity,1420.3,15
-2012,Parks Canada,Lightning,272200.609,65
-2013,Parks Canada,Human activity,5015.8612,29
-2013,Parks Canada,Human activity,1121.16,20
-2013,Parks Canada,Lightning,48981.54,69
-2014,Parks Canada,Human activity,0.3431,10
-2014,Parks Canada,Human activity,3139.36,12
-2014,Parks Canada,Lightning,267177.55,53
-2015,Parks Canada,Human activity,8.3102,32
-2015,Parks Canada,Human activity,6694.1,28
-2015,Parks Canada,Lightning,457818.6,80
-2016,Parks Canada,Human activity,1.5453,27
-2016,Parks Canada,Human activity,3383.1538,24
-2016,Parks Canada,Lightning,7794.2901,33
-2017,Parks Canada,Human activity,3.86461,74
-2017,Parks Canada,Human activity,1744.556,13
-2017,Parks Canada,Lightning,92143.0224,85
-2018,Parks Canada,Human activity,193.5642,79
-2018,Parks Canada,Human activity,37075.797,19
-2018,Parks Canada,Lightning,25696.132,57
-2019,Parks Canada,Human activity,4.34321,29
-2019,Parks Canada,Human activity,308.15,12
-2019,Parks Canada,Lightning,36405.98,39
-2018,Prince Edward Island,Human activity,7.39015146,8
-2019,Prince Edward Island,Human activity,14.21112824,3
-1990,Quebec,Human activity,18666.5,595
-1990,Quebec,Lightning,64676.1,256
-1991,Quebec,Human activity,42503.1,737
-1991,Quebec,Lightning,395828.3,479
-1992,Quebec,Human activity,8127.3,648
-1992,Quebec,Lightning,18984.2,117
-1993,Quebec,Human activity,1062.2,432
-1993,Quebec,Lightning,127171.8,111
-1994,Quebec,Human activity,792.9,381
-1994,Quebec,Lightning,115247.4,118
-1995,Quebec,Human activity,123078.5,672
-1995,Quebec,Lightning,604648.2,593
-1996,Quebec,Human activity,9575.9,499
-1996,Quebec,Lightning,682013.7,751
-1997,Quebec,Human activity,4713.7,514
-1997,Quebec,Lightning,388365.5,362
-1998,Quebec,Human activity,13329.3,645
-1998,Quebec,Lightning,404977.5,209
-1999,Quebec,Human activity,3927.8,778
-1999,Quebec,Lightning,93819.4,259
-2000,Quebec,Human activity,672.4,411
-2000,Quebec,Lightning,38535.9,105
-2001,Quebec,Human activity,5877.3,738
-2001,Quebec,Lightning,27190.9,265
-2002,Quebec,Human activity,5943.3,571
-2002,Quebec,Lightning,1007806.3,324
-2003,Quebec,Human activity,9398.1,523
-2003,Quebec,Lightning,78462.2,193
-2004,Quebec,Human activity,802.1,277
-2004,Quebec,Lightning,2242.1,42
-2005,Quebec,Human activity,33359.6,549
-2005,Quebec,Lightning,766770.7,825
-2006,Quebec,Human activity,65210.6,384
-2006,Quebec,Lightning,71140.5,299
-2007,Quebec,Human activity,120725.3,507
-2007,Quebec,Lightning,221956.8,428
-2008,Quebec,Human activity,148.2,188
-2008,Quebec,Lightning,1333.4,34
-2009,Quebec,Human activity,2246.3,338
-2009,Quebec,Lightning,91725.4,145
-2010,Quebec,Human activity,36000.1,497
-2010,Quebec,Lightning,278883.7,240
-2011,Quebec,Human activity,2272.7,231
-2011,Quebec,Lightning,10124.8,98
-2012,Quebec,Human activity,24781.7,521
-2012,Quebec,Lightning,39261.4,274
-2013,Quebec,Human activity,17130.7,364
-2013,Quebec,Lightning,1855711.5,151
-2014,Quebec,Human activity,8416.5,224
-2014,Quebec,Lightning,55304.2,68
-2015,Quebec,Human activity,1460.3,338
-2015,Quebec,Lightning,3919.3,46
-2016,Quebec,Human activity,334.4,431
-2016,Quebec,Lightning,33036.4,171
-2017,Quebec,Human activity,1692.7,234
-2017,Quebec,Lightning,36699.2,83
-2018,Quebec,Human activity,15772.1,398
-2018,Quebec,Lightning,70488.6,194
-2019,Quebec,Human activity,5087.1,276
-2019,Quebec,Lightning,4516.9,81
-1990,Saskatchewan,Human activity,35848.28615,434
-1990,Saskatchewan,Lightning,180207.3921,463
-1991,Saskatchewan,Human activity,33955.16,493
-1991,Saskatchewan,Lightning,164219.95,269
-1992,Saskatchewan,Human activity,9635.18,471
-1992,Saskatchewan,Lightning,88121.21,228
-1993,Saskatchewan,Human activity,132315.19,462
-1993,Saskatchewan,Lightning,475884.65,183
-1994,Saskatchewan,Human activity,3770.36,435
-1994,Saskatchewan,Lightning,842249.09,262
-1995,Saskatchewan,Human activity,63833.71,295
-1995,Saskatchewan,Lightning,1584600.18,355
-1996,Saskatchewan,Human activity,732.31,207
-1996,Saskatchewan,Lightning,12254.68,218
-1997,Saskatchewan,Human activity,1669.69,232
-1997,Saskatchewan,Lightning,2207.22,257
-1998,Saskatchewan,Human activity,158432.55,438
-1998,Saskatchewan,Lightning,880263.67,828
-1999,Saskatchewan,Human activity,9135.45,245
-1999,Saskatchewan,Lightning,171684.79,495
-2000,Saskatchewan,Human activity,10779.06,234
-2000,Saskatchewan,Lightning,130027.11,180
-2001,Saskatchewan,Human activity,39183.66,539
-2001,Saskatchewan,Lightning,164244.76,317
-2002,Saskatchewan,Human activity,101467.57,440
-2002,Saskatchewan,Lightning,778142.47,440
-2003,Saskatchewan,Human activity,12668.23,288
-2003,Saskatchewan,Lightning,112995.52,352
-2004,Saskatchewan,Human activity,7405.16,164
-2004,Saskatchewan,Lightning,250726.45,165
-2005,Saskatchewan,Human activity,8276.24,127
-2005,Saskatchewan,Lightning,205497.22,196
-2006,Saskatchewan,Human activity,181715.17,166
-2006,Saskatchewan,Lightning,1022011.37,334
-2007,Saskatchewan,Human activity,4569.16,233
-2007,Saskatchewan,Lightning,208303.96,133
-2008,Saskatchewan,Human activity,30996.62,316
-2008,Saskatchewan,Lightning,1099180.61,282
-2009,Saskatchewan,Human activity,4822.03,328
-2009,Saskatchewan,Lightning,32737.34,183
-2010,Saskatchewan,Human activity,208237.07,230
-2010,Saskatchewan,Lightning,1526570.11,341
-2011,Saskatchewan,Human activity,55403.5,239
-2011,Saskatchewan,Lightning,288316.49,64
-2012,Saskatchewan,Human activity,6600.1,206
-2012,Saskatchewan,Lightning,220910.3,202
-2013,Saskatchewan,Human activity,7202.6,269
-2013,Saskatchewan,Lightning,356634.5,160
-2014,Saskatchewan,Human activity,15529.66,209
-2014,Saskatchewan,Lightning,327253.82,194
-2015,Saskatchewan,Human activity,41757.38082,344
-2015,Saskatchewan,Lightning,1716975.669,379
-2016,Saskatchewan,Human activity,2773.5,230
-2016,Saskatchewan,Lightning,251990.9,171
-2017,Saskatchewan,Human activity,451.2,191
-2017,Saskatchewan,Lightning,398546.5,162
-2018,Saskatchewan,Human activity,47146.6,271
-2018,Saskatchewan,Lightning,108550.2,162
-2019,Saskatchewan,Human activity,1531.4,178
-2019,Saskatchewan,Lightning,46622.2,72
-1990,Yukon,Human activity,1412.99,81
-1990,Yukon,Lightning,181478.93,73
-1991,Yukon,Human activity,805.14,62
-1991,Yukon,Lightning,119465.68,125
-1992,Yukon,Human activity,5998.23,48
-1992,Yukon,Lightning,31816.84,68
-1993,Yukon,Human activity,56.58,59
-1993,Yukon,Lightning,115047.73,77
-1994,Yukon,Human activity,29.37,70
-1994,Yukon,Lightning,421681.02,185
-1995,Yukon,Human activity,389.76,71
-1995,Yukon,Lightning,260989.98,76
-1996,Yukon,Human activity,15040.38,66
-1996,Yukon,Lightning,76026.75,83
-1997,Yukon,Human activity,78.81,69
-1997,Yukon,Lightning,11391.24,43
-1998,Yukon,Human activity,63760.73,110
-1998,Yukon,Lightning,279911.67,87
-1999,Yukon,Human activity,3280.24,40
-1999,Yukon,Lightning,191536.24,119
-2000,Yukon,Human activity,10.33,31
-2000,Yukon,Lightning,7642.53,23
-2001,Yukon,Human activity,6.82,18
-2001,Yukon,Lightning,17327.66,50
-2002,Yukon,Human activity,22.66,38
-2002,Yukon,Lightning,36181.45,31
-2003,Yukon,Human activity,2940.47,48
-2003,Yukon,Lightning,45844.86,29
-2004,Yukon,Human activity,11631.47,33
-2004,Yukon,Lightning,1708032.62,249
-2005,Yukon,Human activity,1.51,26
-2005,Yukon,Lightning,187436.83,57
-2006,Yukon,Human activity,4.04,26
-2006,Yukon,Lightning,95029.3,54
-2007,Yukon,Human activity,13989.01,20
-2007,Yukon,Lightning,23718.75,90
-2008,Yukon,Human activity,11.83,27
-2008,Yukon,Lightning,13056.05,49
-2009,Yukon,Human activity,3.23,33
-2009,Yukon,Lightning,230509.12,85
-2010,Yukon,Human activity,5261.48,38
-2010,Yukon,Lightning,141701.69,50
-2011,Yukon,Human activity,119.88,16
-2011,Yukon,Lightning,40344.45,40
-2012,Yukon,Human activity,6.47,34
-2012,Yukon,Lightning,58273.73,92
-2013,Yukon,Human activity,6.45,21
-2013,Yukon,Lightning,198307.34,156
-2014,Yukon,Human activity,23.581,18
-2014,Yukon,Lightning,3137.013,16
-2015,Yukon,Human activity,41.9,24
-2015,Yukon,Lightning,169799.71,161
-2016,Yukon,Human activity,2.28,24
-2016,Yukon,Lightning,21535.12,29
-2017,Yukon,Human activity,18.7,22
-2017,Yukon,Lightning,399261.45,93
-2018,Yukon,Human activity,6487.33,18
-2018,Yukon,Lightning,74098.16,33
-2019,Yukon,Human activity,1331.3,33
-2019,Yukon,Lightning,254705.32,84
+Year,Location,Cause,Area_hectares,Number,Number_Percentage
+1990,AB,Human activity,2385.4,372,1.0058403634003894
+1990,AB,Lightning,30890.7,914,2.471338957386978
+1991,AB,Human activity,2260.5,431,1.1653688081332467
+1991,AB,Lightning,3769.3,466,1.2600043261951113
+1992,AB,Human activity,2002.2,398,1.0761410339606317
+1992,AB,Lightning,1075.2,626,1.6926238373350637
+1993,AB,Human activity,1138.61,303,0.8192731992212848
+1993,AB,Lightning,24892.7,517,1.3979017953709711
+1994,AB,Human activity,2484.8,361,0.9760977720095176
+1994,AB,Lightning,27057.68,499,1.3492321003677266
+1995,AB,Human activity,7886.62,413,1.1166991131300021
+1995,AB,Lightning,327019.99,358,0.9679861561756434
+1996,AB,Human activity,655.24,143,0.38665368808133244
+1996,AB,Lightning,1281.76,217,0.5867402119835605
+1997,AB,Human activity,4383.07,204,0.5515898767034394
+1997,AB,Lightning,322.27,242,0.654337010599178
+1998,AB,Human activity,74976.88,448,1.2113346311918667
+1998,AB,Lightning,651766.17,1192,3.223015357992645
+1999,AB,Human activity,3722.86,443,1.1978152714687433
+1999,AB,Lightning,116724.7,890,2.406446030715985
+2000,AB,Human activity,4759.14,337,0.9112048453385247
+2000,AB,Lightning,9958.0,429,1.1599610642439975
+2001,AB,Human activity,137095.04,465,1.2573004542504866
+2001,AB,Lightning,16932.3,490,1.3248972528661043
+2002,AB,Human activity,247826.19,565,1.527687648712957
+2002,AB,Human activity,7.0,1,0.0027038719446247027
+2002,AB,Lightning,248579.43,868,2.346960847934242
+2003,AB,Human activity,3575.9,643,1.7385896603936837
+2003,AB,Lightning,51372.71,526,1.4222366428725934
+2004,AB,Human activity,4207.78,861,2.328033744321869
+2004,AB,Human activity,0.2,1,0.0027038719446247027
+2004,AB,Lightning,231905.13,732,1.9792342634652824
+2005,AB,Human activity,12036.34,901,2.4361886221068567
+2005,AB,Human activity,3.91,2,0.0054077438892494055
+2005,AB,Lightning,48640.28,433,1.1707765520224962
+2006,AB,Human activity,21166.12,1197,3.236534717715769
+2006,AB,Human activity,1.79,7,0.018927103612372917
+2006,AB,Lightning,97576.92,747,2.019792342634653
+2007,AB,Human activity,857.97,798,2.1576898118105126
+2007,AB,Lightning,102757.68,513,1.3870863075924724
+2008,AB,Human activity,2163.68,890,2.406446030715985
+2008,AB,Human activity,42.11,3,0.008111615833874108
+2008,AB,Lightning,18522.77,779,2.1063162448626436
+2009,AB,Human activity,2885.58,1048,2.8336577979666884
+2009,AB,Human activity,735.87,6,0.016223231667748216
+2009,AB,Lightning,63251.5,566,1.5303915206575818
+2010,AB,Human activity,2268.74,1101,2.9769630110317977
+2010,AB,Human activity,1.5,1,0.0027038719446247027
+2010,AB,Lightning,78830.84,741,2.0035691109669047
+2011,AB,Human activity,128203.33,922,2.492969932943976
+2011,AB,Human activity,0.6,2,0.0054077438892494055
+2011,AB,Lightning,74245.95,215,0.581332468094311
+2012,AB,Human activity,7553.0,1127,3.0472636815920398
+2012,AB,Lightning,377851.12,436,1.1788881678563703
+2013,AB,Human activity,2101.0,890,2.406446030715985
+2013,AB,Lightning,17372.64,287,0.7760112481072896
+2014,AB,Human activity,1203.51,859,2.3226260004326194
+2014,AB,Lightning,22470.08,563,1.5222799048237077
+2015,AB,Human activity,38610.55,1009,2.728206792126325
+2015,AB,Lightning,427638.87,772,2.0873891412502705
+2016,AB,Human activity,1134.0,861,2.328033744321869
+2016,AB,Lightning,20015.05,514,1.389790179537097
+2017,AB,Human activity,6832.69,787,2.127947220419641
+2017,AB,Lightning,42316.3,416,1.1248107289638762
+2018,AB,Human activity,1887.8,731,1.9765303915206576
+2018,AB,Lightning,57901.81,512,1.3843824356478478
+2019,AB,Human activity,3025.94,705,1.9062297209604153
+2019,AB,Lightning,127692.59,288,0.7787151200519143
+1990,BC,Human activity,40278.3,1240,2.1912773026083268
+1990,BC,Lightning,35503.5,2015,3.5608256167385313
+1991,BC,Human activity,10923.6,1253,2.214250371103414
+1991,BC,Lightning,13785.2,760,1.3430409274051036
+1992,BC,Human activity,15559.9,1461,2.581819467024811
+1992,BC,Lightning,14892.9,2344,4.14222096557574
+1993,BC,Human activity,3400.2,886,1.5657029758959495
+1993,BC,Lightning,1783.2,611,1.0797342192691028
+1994,BC,Human activity,12017.1,1169,2.06580900544285
+1994,BC,Lightning,17738.2,2888,5.103555524139393
+1995,BC,Human activity,19714.4,1130,1.9968897999575883
+1995,BC,Lightning,28365.6,344,0.60790273556231
+1996,BC,Human activity,6579.8,633,1.1186117197992507
+1996,BC,Lightning,14089.3,727,1.2847246766098819
+1997,BC,Human activity,2635.4,489,0.8641408072382837
+1997,BC,Lightning,332.4,687,1.2140383120096134
+1998,BC,Human activity,6552.156,910,1.6081147946561107
+1998,BC,Lightning,70015.188,1752,3.096062769491765
+1999,BC,Human activity,4834.0,597,1.054993991659009
+1999,BC,Lightning,6721.41,601,1.062062628119036
+2000,BC,Human activity,11361.754,684,1.2087368346645933
+2000,BC,Lightning,6190.258,842,1.4879479748356543
+2001,BC,Human activity,4843.569,812,1.4349332013854528
+2001,BC,Lightning,4983.38,479,0.8464692160882167
+2002,BC,Human activity,4353.763,900,1.5904432035060436
+2002,BC,Lightning,4216.797,872,1.5409627482858557
+2003,BC,Human activity,81744.683,942,1.6646638863363257
+2003,BC,Lightning,183168.879,1515,2.6772460592351734
+2004,BC,Human activity,2175.187,693,1.2246412666996536
+2004,BC,Lightning,218112.29,1712,3.0253764048914964
+2005,BC,Human activity,7844.705,607,1.072665582809076
+2005,BC,Lightning,27097.361,387,0.6838905775075987
+2006,BC,Human activity,9454.723,1026,1.81310525199689
+2006,BC,Lightning,129696.069,1534,2.710822082420301
+2007,BC,Human activity,12242.438,688,1.21580547112462
+2007,BC,Lightning,17243.066,919,1.6240192266911713
+2008,BC,Human activity,8649.034,842,1.4879479748356543
+2008,BC,Lightning,4661.254,1182,2.0887820739379377
+2009,BC,Human activity,26716.472,873,1.5427299074008625
+2009,BC,Lightning,220626.996,2176,3.8453382342546125
+2010,BC,Human activity,10435.463,696,1.2299427440446737
+2010,BC,Lightning,326731.735,993,1.7547890012016683
+2011,BC,Human activity,1183.169,437,0.7722485332579345
+2011,BC,Lightning,11379.716,209,0.3693362550364035
+2012,BC,Human activity,5606.892,699,1.235244221389694
+2012,BC,Lightning,96509.765,941,1.662896727221319
+2013,BC,Human activity,4954.336,571,1.0090478546688344
+2013,BC,Lightning,13348.763,1296,2.290238213048703
+2014,BC,Human activity,8085.204,653,1.1539549020993851
+2014,BC,Lightning,360840.982,816,1.4420018378454798
+2015,BC,Human activity,57126.995,623,1.1009401286491836
+2015,BC,Lightning,223737.266,1240,2.1912773026083268
+2016,BC,Human activity,93320.648,583,1.030253764048915
+2016,BC,Lightning,7056.983,485,0.8570721707782568
+2017,BC,Human activity,225057.873,562,0.993143422633774
+2017,BC,Lightning,991081.007,784,1.3854527461652646
+2018,BC,Human activity,121607.451,534,0.9436629674135858
+2018,BC,Lightning,1229431.195,1535,2.7125892415353077
+2019,BC,Human activity,4665.837,359,0.6344101222874108
+2019,BC,Lightning,15584.59,374,0.6609175090125115
+2020,BC,Human activity,86.538,16,0.02827454584010744
+1990,MB,Human activity,5719.0,283,2.582823765629278
+1990,MB,Lightning,10426.0,279,2.546317422652186
+1991,MB,Human activity,20668.1,205,1.8709500775759786
+1991,MB,Lightning,130317.6,467,4.262115542575522
+1992,MB,Human activity,90957.6,103,0.940038331660126
+1992,MB,Lightning,342816.2,195,1.7796842201332481
+1993,MB,Human activity,5117.4,102,0.9309117459158529
+1993,MB,Lightning,62157.0,137,1.2503422469654102
+1994,MB,Human activity,471729.6,134,1.222962489732591
+1994,MB,Lightning,957056.1,421,3.8422925983389615
+1995,MB,Human activity,7366.5,262,2.3911654649995437
+1995,MB,Lightning,881870.6,399,3.641507711964954
+1996,MB,Human activity,2882.7,187,1.7066715341790637
+1996,MB,Lightning,122443.7,237,2.163000821392717
+1997,MB,Human activity,3648.7,189,1.7249247056676096
+1997,MB,Lightning,38150.4,184,1.6792917769462443
+1998,MB,Human activity,4837.8,296,2.701469380304828
+1998,MB,Lightning,445734.3,220,2.007848863740075
+1999,MB,Human activity,53387.8,329,3.0026467098658394
+1999,MB,Lightning,57065.7,284,2.5919503513735513
+2004,MB,Human activity,362.0,14,0.12777220041982296
+2004,MB,Lightning,18074.1,32,0.2920507438167381
+2005,MB,Human activity,3585.2,106,0.9674180888929452
+2005,MB,Lightning,69095.4,142,1.2959751756867757
+2006,MB,Human activity,6613.3,260,2.372912293510997
+2006,MB,Lightning,159437.0,422,3.8514191840832344
+2007,MB,Human activity,4912.9,220,2.007848863740075
+2007,MB,Lightning,331367.9,162,1.478506890572237
+2008,MB,Human activity,73198.2,254,2.3181527790453593
+2008,MB,Lightning,77474.4,143,1.3051017614310485
+2009,MB,Human activity,2230.2,117,1.067810532079949
+2009,MB,Lightning,641.8,67,0.6114812448662955
+2010,MB,Human activity,22395.4,245,2.2360135073469016
+2010,MB,Lightning,165098.7,338,3.0847859815642966
+2011,MB,Human activity,26229.1,156,1.4237473761065984
+2011,MB,Lightning,100615.2,159,1.4511271333394178
+2012,MB,Human activity,21026.9,204,1.8618234918317058
+2012,MB,Lightning,195861.4,293,2.674089623072009
+2013,MB,Human activity,895.6,192,1.7523044629004292
+2013,MB,Lightning,1114519.2,302,2.7562288947704663
+2014,MB,Human activity,1171.5,115,1.0495573605914028
+2014,MB,Lightning,37936.4,130,1.1864561467554986
+2015,MB,Human activity,6778.6,164,1.496760062060783
+2015,MB,Lightning,61353.0,295,2.6923427945605547
+2016,MB,Human activity,6700.6,106,0.9674180888929452
+2016,MB,Lightning,31706.9,96,0.8761522314502146
+2017,MB,Human activity,1365.9,136,1.2412156612211374
+2017,MB,Lightning,221813.6,421,3.8422925983389615
+2018,MB,Human activity,78900.9,232,2.1173678926713517
+2018,MB,Lightning,155320.8,244,2.2268869216026284
+2019,MB,Human activity,7936.2,145,1.3233549329195948
+2019,MB,Lightning,63317.9,132,1.204709318244045
+1990,NB,Human activity,6188.1,318,3.6326250856751203
+1990,NB,Lightning,6.9,29,0.3312771304546493
+1991,NB,Human activity,3417.3,498,5.68882796435915
+1991,NB,Lightning,56.7,86,0.9824080420379254
+1992,NB,Human activity,5330.9,500,5.711674663011195
+1992,NB,Lightning,32.2,22,0.2513136851724926
+1993,NB,Human activity,417.0,349,3.986748914781814
+1993,NB,Lightning,323.2,31,0.3541238291066941
+1994,NB,Human activity,752.0,433,4.946310258167695
+1994,NB,Lightning,2.9,15,0.17135023989033585
+1995,NB,Human activity,408.5,395,4.512222983778845
+1995,NB,Lightning,45.9,81,0.9252912954078136
+1996,NB,Human activity,1027.5,239,2.7301804889193515
+1996,NB,Lightning,908.1,84,0.9595613433858807
+1997,NB,Human activity,219.8,290,3.3127713045464935
+1997,NB,Lightning,17.1,33,0.37697052775873885
+1998,NB,Human activity,274.9,224,2.558830249029015
+1998,NB,Lightning,4.1,18,0.205620287868403
+1999,NB,Human activity,831.0,378,4.318026045236463
+1999,NB,Lightning,545.7,161,1.8391592414896047
+2000,NB,Human activity,370.0,256,2.924377427461732
+2000,NB,Lightning,70.8,20,0.2284669865204478
+2001,NB,Human activity,473.3,338,3.8610920721955675
+2001,NB,Lightning,25.3,56,0.6397075622572538
+2002,NB,Human activity,255.5,211,2.410326707790724
+2002,NB,Lightning,33.0,55,0.6282842129312315
+2003,NB,Human activity,213.7,180,2.0562028786840303
+2003,NB,Lightning,4.3,22,0.2513136851724926
+2004,NB,Human activity,385.8,209,2.3874800091386796
+2004,NB,Lightning,4.6,8,0.09138679460817913
+2005,NB,Human activity,455.4,255,2.912954078135709
+2005,NB,Lightning,9.9,25,0.28558373315055974
+2006,NB,Human activity,574.4,249,2.844413982179575
+2006,NB,Lightning,8.7,27,0.3084304318026045
+2007,NB,Human activity,384.4,254,2.901530728809687
+2007,NB,Lightning,25.2,30,0.3427004797806717
+2008,NB,Human activity,125.7,140,1.5992689056431346
+2008,NB,Lightning,6.8,13,0.14850354123829107
+2009,NB,Human activity,233.7,182,2.079049577336075
+2009,NB,Lightning,0.2,2,0.02284669865204478
+2010,NB,Human activity,130.5,143,1.6335389536212017
+2010,NB,Lightning,10.8,9,0.1028101439342015
+2011,NB,Human activity,33.4,55,0.6282842129312315
+2011,NB,Lightning,2.2,4,0.04569339730408956
+2012,NB,Human activity,287.9,277,3.1642677633082017
+2012,NB,Lightning,0.8,6,0.06854009595613435
+2013,NB,Human activity,845.5,315,3.598355037697053
+2013,NB,Lightning,0.2,2,0.02284669865204478
+2014,NB,Human activity,101.3,154,1.759195796207448
+2014,NB,Lightning,0.5,4,0.04569339730408956
+2015,NB,Human activity,197.7,185,2.113319625314142
+2015,NB,Lightning,45.6,8,0.09138679460817913
+2016,NB,Human activity,199.2,238,2.7187571395933285
+2016,NB,Lightning,21.7,13,0.14850354123829107
+2017,NB,Human activity,530.3,182,2.079049577336075
+2017,NB,Lightning,19.7,29,0.3312771304546493
+2018,NB,Human activity,250.1,229,2.6159469956591272
+2018,NB,Lightning,16.5,19,0.2170436371944254
+2019,NB,Human activity,183.6,152,1.7363490975554032
+2019,NB,Lightning,14.1,14,0.15992689056431345
+1990,NL,Human activity,3825.3,154,5.126498002663116
+1990,NL,Lightning,20777.0,11,0.36617842876165113
+1991,NL,Human activity,6863.4,92,3.062583222370173
+1991,NL,Lightning,49526.6,23,0.7656458055925432
+1992,NL,Human activity,1435.5,99,3.2956058588548602
+1992,NL,Lightning,374.2,7,0.2330226364846871
+1993,NL,Human activity,55.4,53,1.7643142476697737
+1993,NL,Lightning,28425.0,12,0.3994673768308922
+1994,NL,Human activity,1309.7,122,4.061251664447404
+1994,NL,Lightning,108964.5,7,0.2330226364846871
+1995,NL,Human activity,301.1,84,2.796271637816245
+1995,NL,Lightning,400.0,2,0.06657789613848203
+1996,NL,Human activity,3161.1,82,2.729693741677763
+1996,NL,Lightning,78149.3,29,0.9653794940079893
+1997,NL,Human activity,8261.5,68,2.263648468708389
+1997,NL,Lightning,283.2,10,0.3328894806924101
+1998,NL,Human activity,1085.5,159,5.292942743009322
+1998,NL,Lightning,39075.7,21,0.6990679094540613
+1999,NL,Human activity,11262.4,165,5.492676431424767
+1999,NL,Lightning,27777.8,23,0.7656458055925432
+2000,NL,Human activity,232.0,124,4.1278295605858855
+2000,NL,Lightning,103304.167,25,0.8322237017310253
+2001,NL,Human activity,324.6,165,5.492676431424767
+2001,NL,Lightning,640.988,16,0.5326231691078562
+2002,NL,Human activity,260.1,85,2.829560585885486
+2002,NL,Lightning,14524.546,14,0.4660452729693742
+2003,NL,Human activity,683.0,125,4.161118508655127
+2003,NL,Lightning,27028.13,15,0.4993342210386152
+2004,NL,Human activity,1224.5,122,4.061251664447404
+2004,NL,Lightning,931.586,2,0.06657789613848203
+2005,NL,Human activity,187.2,115,3.8282290279627165
+2005,NL,Lightning,18061.319,6,0.1997336884154461
+2006,NL,Human activity,153.7,61,2.030625832223702
+2006,NL,Lightning,3311.868,5,0.16644474034620504
+2007,NL,Human activity,324.146,59,1.9640479360852199
+2007,NL,Lightning,11026.484,6,0.1997336884154461
+2008,NL,Human activity,98.4,70,2.330226364846871
+2008,NL,Lightning,1.6,2,0.06657789613848203
+2009,NL,Human activity,392.584,148,4.92676431424767
+2009,NL,Lightning,16263.609,2,0.06657789613848203
+2010,NL,Human activity,38.6,42,1.3981358189081226
+2010,NL,Lightning,956.649,4,0.13315579227696406
+2011,NL,Human activity,38.4,34,1.1318242343541944
+2012,NL,Human activity,1671.9,109,3.6284953395472703
+2012,NL,Lightning,109.1,2,0.06657789613848203
+2013,NL,Human activity,27668.735,70,2.330226364846871
+2013,NL,Lightning,2474.861,1,0.033288948069241014
+2015,NL,Human activity,9.9,6,0.1997336884154461
+2015,NL,Lightning,3579.9,19,0.6324900133155792
+2016,NL,Human activity,0.4,4,0.13315579227696406
+2016,NL,Lightning,10602.9,13,0.4327563249001331
+2017,NL,Human activity,62.3,77,2.563249001331558
+2017,NL,Lightning,637.5,3,0.09986684420772304
+2018,NL,Human activity,355.2,127,4.227696404793608
+2018,NL,Lightning,40.3,4,0.13315579227696406
+2019,NL,Human activity,106.8,89,2.96271637816245
+2019,NL,Lightning,209.2,10,0.3328894806924101
+1990,NS,Human activity,1029.09,441,5.9554355165428765
+1990,NS,Lightning,0.2,8,0.10803511141120864
+1991,NS,Human activity,1712.09,636,8.588791357191088
+1991,NS,Lightning,17.98,40,0.5401755570560433
+1992,NS,Human activity,1111.11,265,3.5786630654962863
+1992,NS,Lightning,0.11,2,0.02700877785280216
+1993,NS,Human activity,362.78,288,3.8892640108035117
+1993,NS,Lightning,2.8,3,0.04051316677920324
+1994,NS,Human activity,237.23,244,3.295070898041864
+1995,NS,Human activity,369.95,353,4.767049291019582
+1995,NS,Lightning,0.33,4,0.05401755570560432
+1996,NS,Human activity,601.63,238,3.214044564483457
+1996,NS,Lightning,2.27,4,0.05401755570560432
+1997,NS,Human activity,501.67,307,4.145847400405132
+1997,NS,Lightning,24.34,24,0.3241053342336259
+1998,NS,Human activity,306.67,293,3.9567859554355165
+1998,NS,Lightning,12.13,5,0.0675219446320054
+1999,NS,Human activity,1788.39,398,5.374746792707629
+1999,NS,Lightning,16.36,27,0.36461850101282917
+2000,NS,Human activity,300.87,163,2.201215395003376
+2000,NS,Lightning,1.99,8,0.10803511141120864
+2001,NS,Human activity,471.1,422,5.698852126941256
+2001,NS,Lightning,7.65,15,0.2025658338960162
+2002,NS,Human activity,190.04,221,2.9844699527346386
+2002,NS,Lightning,9.72,16,0.21607022282241728
+2003,NS,Human activity,1235.99,254,3.430114787305875
+2003,NS,Lightning,0.13,4,0.05401755570560432
+2004,NS,Human activity,287.52,250,3.37609723160027
+2004,NS,Lightning,0.45,4,0.05401755570560432
+2005,NS,Human activity,472.0,261,3.5246455097906817
+2006,NS,Human activity,1562.0,202,2.7278865631330182
+2007,NS,Human activity,508.0,323,4.361917623227549
+2008,NS,Human activity,2638.0,211,2.849426063470628
+2009,NS,Human activity,858.0,161,2.174206617150574
+2013,NS,Human activity,295.217,157,2.12018906144497
+2013,NS,Lightning,0.1,1,0.01350438892640108
+2014,NS,Human activity,536.6007,156,2.1066846725185684
+2015,NS,Human activity,511.4599,235,3.1735313977042536
+2016,NS,Human activity,774.987,246,3.322079675894666
+2016,NS,Lightning,17.551,11,0.1485482781904119
+2017,NS,Human activity,572.77,175,2.363268062120189
+2018,NS,Human activity,193.6200003,186,2.511816340310601
+2018,NS,Lightning,1.790000031,4,0.05401755570560432
+2019,NS,Human activity,133.57,137,1.850101282916948
+2019,NS,Lightning,0.9,2,0.02700877785280216
+1990,NT,Human activity,11.98,40,0.5560189046427579
+1990,NT,Lightning,104605.21,194,2.696691687517376
+1991,NT,Human activity,46.97,43,0.5977203224909646
+1991,NT,Lightning,225401.42,283,3.9338337503475116
+1992,NT,Human activity,269.43,73,1.014734500973033
+1992,NT,Lightning,34072.78,199,2.7661940505977203
+1993,NT,Human activity,84.47,67,0.9313316652766194
+1993,NT,Human activity,7400.0,2,0.027800945232137893
+1993,NT,Lightning,856783.73,398,5.5323881011954406
+1994,NT,Human activity,10126.82,92,1.278843480678343
+1994,NT,Human activity,17882.0,28,0.3892132332499305
+1994,NT,Lightning,2999302.32,525,7.297748123436197
+1995,NT,Human activity,111783.76,67,0.9313316652766194
+1995,NT,Human activity,15996.9,8,0.11120378092855157
+1995,NT,Lightning,2715574.67,139,1.9321656936335834
+1996,NT,Human activity,84.66,20,0.27800945232137897
+1996,NT,Lightning,371460.06,330,4.587155963302752
+1997,NT,Human activity,9.97,14,0.19460661662496526
+1997,NT,Lightning,126521.29,90,1.2510425354462051
+1998,NT,Human activity,79.72,24,0.3336113427856547
+1998,NT,Lightning,1458875.43,373,5.184876285793718
+1999,NT,Human activity,31.65,32,0.4448151237142063
+1999,NT,Human activity,11158.0,2,0.027800945232137893
+1999,NT,Lightning,549844.38,135,1.8765638031693077
+2000,NT,Human activity,20.83,19,0.26410897970531
+2000,NT,Human activity,17.8,1,0.013900472616068946
+2000,NT,Lightning,177796.14,252,3.5029190992493744
+2001,NT,Human activity,5.23,21,0.2919099249374479
+2001,NT,Lightning,111256.49,106,1.4734500973033082
+2002,NT,Human activity,18.04,12,0.16680567139282734
+2002,NT,Lightning,27067.63,70,0.9730330831248262
+2003,NT,Human activity,9.3,12,0.16680567139282734
+2003,NT,Lightning,127812.1,148,2.057269947178204
+2004,NT,Human activity,7637.95,35,0.4865165415624131
+2004,NT,Lightning,499695.38,252,3.5029190992493744
+2005,NT,Human activity,9.11,16,0.22240756185710314
+2005,NT,Lightning,216865.2,239,3.3222129552404787
+2006,NT,Human activity,68.68,23,0.31971087016958577
+2006,NT,Lightning,53312.35,139,1.9321656936335834
+2007,NT,Human activity,22183.3,37,0.514317486794551
+2007,NT,Lightning,422923.87,141,1.9599666388657215
+2008,NT,Human activity,19.78,21,0.2919099249374479
+2008,NT,Lightning,308546.47,214,2.9747011398387544
+2009,NT,Human activity,22.6,15,0.2085070892410342
+2009,NT,Lightning,2034.15,26,0.3614122880177926
+2010,NT,Human activity,152.56,19,0.26410897970531
+2010,NT,Lightning,350649.38,201,2.793994995829858
+2011,NT,Human activity,151.17,25,0.34751181540172366
+2011,NT,Lightning,329358.2675,166,2.307478454267445
+2012,NT,Human activity,597.3,29,0.4031137058659994
+2012,NT,Lightning,296543.84,245,3.4056157909368916
+2013,NT,Human activity,1188.4,16,0.22240756185710314
+2013,NT,Lightning,536684.32,232,3.2249096469279954
+2014,NT,Human activity,10616.38,18,0.25020850708924103
+2014,NT,Lightning,3407674.14,367,5.101473450097303
+2015,NT,Human activity,4.05,16,0.22240756185710314
+2015,NT,Lightning,646983.59,229,3.183208229079789
+2016,NT,Human activity,7819.08,17,0.2363080344731721
+2016,NT,Lightning,247180.28,171,2.37698081734779
+2017,NT,Human activity,11.14,19,0.26410897970531
+2017,NT,Lightning,1030247.67,242,3.3639143730886847
+2018,NT,Human activity,0.23,5,0.06950236308034474
+2018,NT,Lightning,15737.41,54,0.7506255212677231
+2019,NT,Human activity,4.54,20,0.27800945232137897
+2019,NT,Lightning,105162.63,126,1.7514595496246872
+1990,ON,Human activity,8672.000002,940,2.734068235362555
+1990,ON,Lightning,174915.7,645,1.8760361827753702
+1991,ON,Human activity,11090.2,1265,3.679357784823013
+1991,ON,Lightning,307671.5,1259,3.6619062854483584
+1992,ON,Human activity,5372.600002,675,1.9632936796486433
+1992,ON,Lightning,170595.9,262,0.7620488060265844
+1993,ON,Human activity,9016.000001,562,1.6346237747593146
+1993,ON,Lightning,95608.6,163,0.47409906634478344
+1994,ON,Human activity,7455.000002,698,2.0301910939181522
+1994,ON,Lightning,76020.3,351,1.0209127134172944
+1995,ON,Human activity,41933.5,985,2.8649544806724645
+1995,ON,Lightning,570412.5,1133,3.2954247985806115
+1996,ON,Human activity,1849.800002,576,1.6753439399668422
+1996,ON,Lightning,443461.2,669,1.9458421802739885
+1997,ON,Human activity,2113.300002,925,2.6904394869259183
+1997,ON,Lightning,36224.3,681,1.9807451790232977
+1998,ON,Human activity,4137.500002,854,2.4839300776591724
+1998,ON,Lightning,127542.1,1412,4.10691951950205
+1999,ON,Human activity,251129.6,633,1.841133184026061
+1999,ON,Lightning,76924.8,376,1.093627294145022
+2000,ON,Human activity,1420.500003,443,1.2885023704953318
+2000,ON,Lightning,5293.200001,199,0.5788080625927111
+2001,ON,Human activity,1520.1,545,1.58517785986446
+2001,ON,Lightning,9235.400001,1027,2.9871149762950466
+2002,ON,Human activity,2326.700001,438,1.2739594543497863
+2002,ON,Lightning,178041.9,703,2.044734010063698
+2003,ON,Human activity,8393.500002,475,1.381577033826823
+2003,ON,Lightning,309983.4,517,1.5037375294494053
+2004,ON,Human activity,1487.799999,308,0.8958436345656031
+2004,ON,Lightning,120.2000005,113,0.3286699048893284
+2005,ON,Human activity,3167.800005,592,1.7218812716325878
+2005,ON,Lightning,39126.8,1340,3.8975015270061952
+2006,ON,Human activity,1762.999998,497,1.4455658648672232
+2006,ON,Lightning,145286.1,1755,5.104563567086473
+2007,ON,Human activity,33191.3,564,1.6404409412175331
+2007,ON,Human activity,25.0,1,0.002908583229109101
+2007,ON,Lightning,6747.100001,533,1.550274861115151
+2008,ON,Human activity,106.0000003,202,0.5875338122800384
+2008,ON,Lightning,1193.7,118,0.34321282103487394
+2009,ON,Human activity,375.4000003,251,0.7300543905063844
+2009,ON,Lightning,20308.1,121,0.3519385707222012
+2010,ON,Human activity,2609.4,541,1.5735435269480236
+2010,ON,Lightning,10108.9,363,1.0558157121666036
+2011,ON,Human activity,1850.500001,457,1.329222535702859
+2011,ON,Lightning,632086.6,847,2.4635699950554084
+2012,ON,Human activity,43438.7,611,1.7771443529856608
+2012,ON,Human activity,1207.0,1,0.002908583229109101
+2012,ON,Lightning,107873.5,978,2.844594398068701
+2013,ON,Human activity,823.7000012,330,0.9598324656060033
+2013,ON,Lightning,50216.4,239,0.6951513917570752
+2014,ON,Human activity,241.9000009,180,0.5235449812396381
+2014,ON,Human activity,759.0,5,0.014542916145545506
+2014,ON,Lightning,5143.7,117,0.3403042378057648
+2015,ON,Human activity,1243.400002,343,0.9976440475844216
+2015,ON,Human activity,3411.0,2,0.005817166458218202
+2015,ON,Lightning,38063.8,319,0.9278380500858031
+2016,ON,Human activity,6114.800001,451,1.3117710363282045
+2016,ON,Human activity,3096.0,2,0.005817166458218202
+2016,ON,Lightning,76921.7,173,0.5031848986358745
+2017,ON,Human activity,87.40000091,209,0.6078938948838021
+2017,ON,Human activity,445.0,3,0.008725749687327302
+2017,ON,Lightning,112233.0,556,1.6171722753846602
+2018,ON,Human activity,15994.1,373,1.0849015444576946
+2018,ON,Lightning,249675.6,943,2.7427939850498824
+2019,ON,Human activity,16273.9,277,0.805677554463221
+2019,ON,Lightning,253445.7,255,0.7416887234228208
+1990,PC,Human activity,8.4,7,0.2704791344667697
+1990,PC,Lightning,24591.9,57,2.2024729520865534
+1991,PC,Human activity,200.5,2,0.07727975270479134
+1991,PC,Lightning,829.2,19,0.7341576506955177
+1992,PC,Lightning,13.3,5,0.19319938176197837
+1993,PC,Human activity,351.1,3,0.11591962905718702
+1993,PC,Lightning,1277.7,30,1.1591962905718702
+1994,PC,Lightning,67140.9,52,2.009273570324575
+1995,PC,Human activity,0.4,1,0.03863987635239567
+1995,PC,Lightning,4025.6,8,0.3091190108191654
+1996,PC,Lightning,13635.7,22,0.8500772797527048
+1997,PC,Lightning,199.0,7,0.2704791344667697
+1998,PC,Human activity,200.2,2,0.07727975270479134
+1998,PC,Lightning,27808.0,41,1.5842349304482226
+1999,PC,Human activity,2475.3,5,0.19319938176197837
+1999,PC,Lightning,67015.2,11,0.4250386398763524
+2000,PC,Human activity,5570.4,52,2.009273570324575
+2000,PC,Lightning,7437.02,76,2.936630602782071
+2001,PC,Human activity,3815.132,64,2.472952086553323
+2001,PC,Lightning,21175.611,59,2.2797527047913446
+2002,PC,Human activity,2128.31,52,2.009273570324575
+2002,PC,Lightning,6753.71,43,1.661514683153014
+2003,PC,Human activity,39483.851,52,2.009273570324575
+2003,PC,Lightning,112464.6,77,2.975270479134467
+2004,PC,Human activity,3260.0126,31,1.1978361669242659
+2004,PC,Lightning,195464.62,67,2.58887171561051
+2005,PC,Human activity,6244.811,42,1.6228748068006182
+2005,PC,Lightning,31070.51,63,2.4343122102009276
+2006,PC,Human activity,5711.59,51,1.9706336939721791
+2006,PC,Lightning,20320.38,88,3.400309119010819
+2007,PC,Human activity,2241.97,66,2.5502318392581143
+2007,PC,Lightning,222118.51,24,0.9273570324574961
+2008,PC,Human activity,8576.212,49,1.893353941267388
+2008,PC,Human activity,9255.0,20,0.7727975270479135
+2008,PC,Lightning,4487.8,53,2.0479134466769704
+2009,PC,Human activity,19453.456,45,1.7387944358578051
+2009,PC,Human activity,6264.22,19,0.7341576506955177
+2009,PC,Lightning,17133.82,79,3.052550231839258
+2010,PC,Human activity,30.5,59,2.2797527047913446
+2010,PC,Human activity,2110.5,13,0.5023183925811437
+2010,PC,Lightning,5837.2414,50,1.9319938176197835
+2011,PC,Human activity,14849.933,46,1.777434312210201
+2011,PC,Human activity,4816.2,23,0.8887171561051005
+2011,PC,Lightning,23511.41,22,0.8500772797527048
+2012,PC,Human activity,262.6071,27,1.0432766615146831
+2012,PC,Human activity,1420.3,15,0.5795981452859351
+2012,PC,Lightning,272200.609,65,2.511591962905719
+2013,PC,Human activity,5015.8612,29,1.1205564142194746
+2013,PC,Human activity,1121.16,20,0.7727975270479135
+2013,PC,Lightning,48981.54,69,2.6661514683153014
+2014,PC,Human activity,0.3431,10,0.38639876352395675
+2014,PC,Human activity,3139.36,12,0.46367851622874806
+2014,PC,Lightning,267177.55,53,2.0479134466769704
+2015,PC,Human activity,8.3102,32,1.2364760432766615
+2015,PC,Human activity,6694.1,28,1.0819165378670788
+2015,PC,Lightning,457818.6,80,3.091190108191654
+2016,PC,Human activity,1.5453,27,1.0432766615146831
+2016,PC,Human activity,3383.1538,24,0.9273570324574961
+2016,PC,Lightning,7794.2901,33,1.2751159196290571
+2017,PC,Human activity,3.86461,74,2.8593508500772797
+2017,PC,Human activity,1744.556,13,0.5023183925811437
+2017,PC,Lightning,92143.0224,85,3.284389489953632
+2018,PC,Human activity,193.5642,79,3.052550231839258
+2018,PC,Human activity,37075.797,19,0.7341576506955177
+2018,PC,Lightning,25696.132,57,2.2024729520865534
+2019,PC,Human activity,4.34321,29,1.1205564142194746
+2019,PC,Human activity,308.15,12,0.46367851622874806
+2019,PC,Lightning,36405.98,39,1.5069551777434311
+1990,QC,Human activity,18666.5,595,2.8036942795212516
+1990,QC,Lightning,64676.1,256,1.2062953538780512
+1991,QC,Human activity,42503.1,737,3.4728112336254826
+1991,QC,Lightning,395828.3,479,2.2570916972952597
+1992,QC,Human activity,8127.3,648,3.0534351145038165
+1992,QC,Lightning,18984.2,117,0.551314673452078
+1993,QC,Human activity,1062.2,432,2.035623409669211
+1993,QC,Lightning,127171.8,111,0.5230421260955612
+1994,QC,Human activity,792.9,381,1.7953067571388184
+1994,QC,Lightning,115247.4,118,0.5560267646781641
+1995,QC,Human activity,123078.5,672,3.166525303929884
+1995,QC,Lightning,604648.2,593,2.794270097069079
+1996,QC,Human activity,9575.9,499,2.3513335218169824
+1996,QC,Lightning,682013.7,751,3.5387805107906884
+1997,QC,Human activity,4713.7,514,2.4220148902082745
+1997,QC,Lightning,388365.5,362,1.7057770238431815
+1998,QC,Human activity,13329.3,645,3.0392988408255586
+1998,QC,Lightning,404977.5,209,0.9848270662520026
+1999,QC,Human activity,3927.8,778,3.6660069738950147
+1999,QC,Lightning,93819.4,259,1.2204316275563094
+2000,QC,Human activity,672.4,411,1.9366694939214022
+2000,QC,Lightning,38535.9,105,0.49476957873904437
+2001,QC,Human activity,5877.3,738,3.477523324851569
+2001,QC,Lightning,27190.9,265,1.2487041749128265
+2002,QC,Human activity,5943.3,571,2.690604090095184
+2002,QC,Lightning,1007806.3,324,1.5267175572519083
+2003,QC,Human activity,9398.1,523,2.46442371124305
+2003,QC,Lightning,78462.2,193,0.9094336066346245
+2004,QC,Human activity,802.1,277,1.30524926962586
+2004,QC,Lightning,2242.1,42,0.19790783149561775
+2005,QC,Human activity,33359.6,549,2.586938083121289
+2005,QC,Lightning,766770.7,825,3.8874752615210633
+2006,QC,Human activity,65210.6,384,1.8094430308170766
+2006,QC,Lightning,71140.5,299,1.4089152765997548
+2007,QC,Human activity,120725.3,507,2.3890302516256714
+2007,QC,Lightning,221956.8,428,2.0167750447648665
+2008,QC,Human activity,148.2,188,0.8858731505041937
+2008,QC,Lightning,1333.4,34,0.16021110168692865
+2009,QC,Human activity,2246.3,338,1.5926868344171143
+2009,QC,Lightning,91725.4,145,0.6832532277824899
+2010,QC,Human activity,36000.1,497,2.3419093393648103
+2010,QC,Lightning,278883.7,240,1.130901894260673
+2011,QC,Human activity,2272.7,231,1.0884930732258977
+2011,QC,Lightning,10124.8,98,0.4617849401564414
+2012,QC,Human activity,24781.7,521,2.4549995287908777
+2012,QC,Lightning,39261.4,274,1.2911129959476015
+2013,QC,Human activity,17130.7,364,1.7152012062953539
+2013,QC,Lightning,1855711.5,151,0.7115257751390067
+2014,QC,Human activity,8416.5,224,1.0555084346432948
+2014,QC,Lightning,55304.2,68,0.3204222033738573
+2015,QC,Human activity,1460.3,338,1.5926868344171143
+2015,QC,Lightning,3919.3,46,0.2167561963999623
+2016,QC,Human activity,334.4,431,2.0309113184431253
+2016,QC,Lightning,33036.4,171,0.8057675996607293
+2017,QC,Human activity,1692.7,234,1.102629346904156
+2017,QC,Lightning,36699.2,83,0.3911035717651494
+2018,QC,Human activity,15772.1,398,1.8754123079822826
+2018,QC,Lightning,70488.6,194,0.9141456978607106
+2019,QC,Human activity,5087.1,276,1.300537178399774
+2019,QC,Lightning,4516.9,81,0.38167938931297707
+1990,SK,Human activity,35848.28615,434,2.5588113908378043
+1990,SK,Lightning,180207.3921,463,2.72979187547904
+1991,SK,Human activity,33955.16,493,2.906668238901008
+1991,SK,Lightning,164219.95,269,1.5859913920169801
+1992,SK,Human activity,9635.18,471,2.7769589057248982
+1992,SK,Lightning,88121.21,228,1.344260362006957
+1993,SK,Human activity,132315.19,462,2.723895996698308
+1993,SK,Lightning,475884.65,183,1.0789458168740051
+1994,SK,Human activity,3770.36,435,2.5647072696185367
+1994,SK,Lightning,842249.09,262,1.5447202405518543
+1995,SK,Human activity,63833.71,295,1.7392842403160191
+1995,SK,Lightning,1584600.18,355,2.093036967159955
+1996,SK,Human activity,732.31,207,1.2204469076115796
+1996,SK,Lightning,12254.68,218,1.2853015741996345
+1997,SK,Human activity,1669.69,232,1.3678438771298862
+1997,SK,Lightning,2207.22,257,1.5152408466481928
+1998,SK,Human activity,158432.55,438,2.5823949059607334
+1998,SK,Lightning,880263.67,828,4.881787630446318
+1999,SK,Human activity,9135.45,245,1.4444903012794057
+1999,SK,Lightning,171684.79,495,2.9184599964624724
+2000,SK,Human activity,10779.06,234,1.3796356346913508
+2000,SK,Lightning,130027.11,180,1.0612581805318082
+2001,SK,Human activity,39183.66,539,3.1778786628146927
+2001,SK,Lightning,164244.76,317,1.8689935734921288
+2002,SK,Human activity,101467.57,440,2.594186663522198
+2002,SK,Lightning,778142.47,440,2.594186663522198
+2003,SK,Human activity,12668.23,288,1.6980130888508933
+2003,SK,Lightning,112995.52,352,2.0753493308177586
+2004,SK,Human activity,7405.16,164,0.966924120040092
+2004,SK,Lightning,250726.45,165,0.9728199988208243
+2005,SK,Human activity,8276.24,127,0.748776605152998
+2005,SK,Lightning,205497.22,196,1.1555922410235244
+2006,SK,Human activity,181715.17,166,0.9787158776015565
+2006,SK,Lightning,1022011.37,334,1.9692235127645774
+2007,SK,Human activity,4569.16,233,1.3737397559106186
+2007,SK,Lightning,208303.96,133,0.7841518778373916
+2008,SK,Human activity,30996.62,316,1.8630976947113969
+2008,SK,Lightning,1099180.61,282,1.6626378161664994
+2009,SK,Human activity,4822.03,328,1.933848240080184
+2009,SK,Lightning,32737.34,183,1.0789458168740051
+2010,SK,Human activity,208237.07,230,1.3560521195684216
+2010,SK,Lightning,1526570.11,341,2.0104946642297032
+2011,SK,Human activity,55403.5,239,1.409115028595012
+2011,SK,Lightning,288316.49,64,0.37733624196686516
+2012,SK,Human activity,6600.1,206,1.2145510288308472
+2012,SK,Lightning,220910.3,202,1.190967513707918
+2013,SK,Human activity,7202.6,269,1.5859913920169801
+2013,SK,Lightning,356634.5,160,0.9433406049171629
+2014,SK,Human activity,15529.66,209,1.232238665173044
+2014,SK,Lightning,327253.82,194,1.14380048346206
+2015,SK,Human activity,41757.38082,344,2.0281823005719004
+2015,SK,Lightning,1716975.669,379,2.2345380578975296
+2016,SK,Human activity,2773.5,230,1.3560521195684216
+2016,SK,Lightning,251990.9,171,1.0081952715052178
+2017,SK,Human activity,451.2,191,1.1261128471198634
+2017,SK,Lightning,398546.5,162,0.9551323624786275
+2018,SK,Human activity,47146.6,271,1.5977831495784447
+2018,SK,Lightning,108550.2,162,0.9551323624786275
+2019,SK,Human activity,1531.4,178,1.0494664229703439
+2019,SK,Lightning,46622.2,72,0.4245032722127233
+1990,YT,Human activity,1412.99,81,2.2307904158633987
+1990,YT,Lightning,181478.93,73,2.0104654365188654
+1991,YT,Human activity,805.14,62,1.7075185899201322
+1991,YT,Lightning,119465.68,125,3.442577802258331
+1992,YT,Human activity,5998.23,48,1.321949876067199
+1992,YT,Lightning,31816.84,68,1.872762324428532
+1993,YT,Human activity,56.58,59,1.6248967226659323
+1993,YT,Lightning,115047.73,77,2.120627926191132
+1994,YT,Human activity,29.37,70,1.9278435692646656
+1994,YT,Lightning,421681.02,185,5.09501514734233
+1995,YT,Human activity,389.76,71,1.9553841916827321
+1995,YT,Lightning,260989.98,76,2.093087303773065
+1996,YT,Human activity,15040.38,66,1.8176810795923988
+1996,YT,Lightning,76026.75,83,2.285871660699532
+1997,YT,Human activity,78.81,69,1.9003029468465986
+1997,YT,Lightning,11391.24,43,1.184246763976866
+1998,YT,Human activity,63760.73,110,3.0294684659873314
+1998,YT,Lightning,279911.67,87,2.3960341503717983
+1999,YT,Human activity,3280.24,40,1.1016248967226658
+1999,YT,Lightning,191536.24,119,3.277334067749931
+2000,YT,Human activity,10.33,31,0.8537592949600661
+2000,YT,Lightning,7642.53,23,0.6334343156155329
+2001,YT,Human activity,6.82,18,0.49573120352519967
+2001,YT,Lightning,17327.66,50,1.3770311209033324
+2002,YT,Human activity,22.66,38,1.0465436518865325
+2002,YT,Lightning,36181.45,31,0.8537592949600661
+2003,YT,Human activity,2940.47,48,1.321949876067199
+2003,YT,Lightning,45844.86,29,0.7986780501239329
+2004,YT,Human activity,11631.47,33,0.9088405397961994
+2004,YT,Lightning,1708032.62,249,6.857614982098595
+2005,YT,Human activity,1.51,26,0.7160561828697329
+2005,YT,Lightning,187436.83,57,1.569815477829799
+2006,YT,Human activity,4.04,26,0.7160561828697329
+2006,YT,Lightning,95029.3,54,1.487193610575599
+2007,YT,Human activity,13989.01,20,0.5508124483613329
+2007,YT,Lightning,23718.75,90,2.4786560176259984
+2008,YT,Human activity,11.83,27,0.7435968052877995
+2008,YT,Lightning,13056.05,49,1.3494904984852658
+2009,YT,Human activity,3.23,33,0.9088405397961994
+2009,YT,Lightning,230509.12,85,2.3409529055356653
+2010,YT,Human activity,5261.48,38,1.0465436518865325
+2010,YT,Lightning,141701.69,50,1.3770311209033324
+2011,YT,Human activity,119.88,16,0.4406499586890664
+2011,YT,Lightning,40344.45,40,1.1016248967226658
+2012,YT,Human activity,6.47,34,0.936381162214266
+2012,YT,Lightning,58273.73,92,2.5337372624621315
+2013,YT,Human activity,6.45,21,0.5783530707793997
+2013,YT,Lightning,198307.34,156,4.296337097218397
+2014,YT,Human activity,23.581,18,0.49573120352519967
+2014,YT,Lightning,3137.013,16,0.4406499586890664
+2015,YT,Human activity,41.9,24,0.6609749380335995
+2015,YT,Lightning,169799.71,161,4.43404020930873
+2016,YT,Human activity,2.28,24,0.6609749380335995
+2016,YT,Lightning,21535.12,29,0.7986780501239329
+2017,YT,Human activity,18.7,22,0.6058936931974662
+2017,YT,Lightning,399261.45,93,2.5612778848801985
+2018,YT,Human activity,6487.33,18,0.49573120352519967
+2018,YT,Lightning,74098.16,33,0.9088405397961994
+2019,YT,Human activity,1331.3,33,0.9088405397961994
+2019,YT,Lightning,254705.32,84,2.3134122831175987
